@@ -1,0 +1,149 @@
+artist_name,track_name,album_name,album_release_year,danceability,speechiness,energy,loudness,liveness,valence,acousticness,instrumentalness,key_mode,tempo,time_signature,duration_ms
+Smog,Palimpsest,A River Ain't Too Much To Love,2005,0.56,0.0858,0.19,-17.196,0.155,0.294,0.928,0.189,D# minor,137.76,4,172666
+Smog,Say Valley Maker,A River Ain't Too Much To Love,2005,0.469,0.0392,0.252,-14.632,0.101,0.299,0.867,0.0748,B major,177.319,3,310120
+Smog,The Well,A River Ain't Too Much To Love,2005,0.621,0.0392,0.397,-13.291,0.11,0.295,0.794,0.0348,F# major,128.596,4,420893
+Smog,Rock Bottom Riser,A River Ain't Too Much To Love,2005,0.54,0.0353,0.215,-15.667,0.095,0.104,0.929,0.546,B major,158.325,3,344906
+Smog,I Feel Like The Mother Of The World,A River Ain't Too Much To Love,2005,0.526,0.0343,0.846,-10.268,0.0913,0.508,0.3,0.354,B major,115.382,4,189186
+Smog,In The Pines,A River Ain't Too Much To Love,2005,0.46,0.0352,0.13,-17.25,0.107,0.152,0.879,0.0711,B major,114.771,3,312693
+Smog,Drinking At The Dam,A River Ain't Too Much To Love,2005,0.651,0.0438,0.185,-15.254,0.107,0.214,0.952,0.476,F# major,125.913,3,247133
+Smog,Running The Loping,A River Ain't Too Much To Love,2005,0.68,0.052,0.13,-17.696,0.104,0.311,0.906,0.544,B major,121.463,3,415786
+Smog,I'm New Here,A River Ain't Too Much To Love,2005,0.597,0.0703,0.304,-17.221,0.0948,0.88,0.851,0.108,F# major,92.92,4,239373
+Smog,Let Me See The Colts,A River Ain't Too Much To Love,2005,0.517,0.0329,0.386,-11.431,0.113,0.378,0.876,0.0397,B major,122.372,3,399786
+Smog,Feather By Feather,Supper,2003,0.438,0.0319,0.355,-12.039,0.107,0.14,0.647,0.425,B major,104.348,3,336400
+Smog,Butterflies Drowned In Wine,Supper,2003,0.574,0.0415,0.582,-10.171,0.119,0.413,0.568,0.213,A# major,123.455,4,277893
+Smog,Morality,Supper,2003,0.502,0.0274,0.601,-8.905,0.0901,0.869,0.117,0.69,C# major,109.67,4,166666
+Smog,Ambition,Supper,2003,0.651,0.027,0.572,-10.958,0.0832,0.645,0.119,0.26,G major,109.851,4,267866
+Smog,Vessel In Vain,Supper,2003,0.387,0.0319,0.425,-12.621,0.0752,0.123,0.716,0.00989,B major,131.733,3,259933
+Smog,Truth Serum,Supper,2003,0.575,0.0305,0.558,-10.447,0.0776,0.207,0.636,0.276,C# major,130.718,3,448840
+Smog,Our Anniversary,Supper,2003,0.539,0.0264,0.474,-14.879,0.126,0.356,0.451,0.799,F# major,94.661,4,377000
+Smog,Driving,Supper,2003,0.218,0.0347,0.52,-14.17,0.0941,0.299,0.703,0.129,C# major,75.11,4,249733
+Smog,Guiding Light,Supper,2003,0.433,0.0412,0.142,-16.246,0.111,0.0454,0.822,0.394,F major,76.939,3,229893
+Smog,Astronaut,Accumulation: None,2002,0.305,0.0538,0.556,-10.506,0.367,0.263,0.0538,0.2,A# major,114.356,4,95120
+Smog,A Hit,Accumulation: None,2002,0.369,0.0771,0.752,-6.073,0.156,0.252,0.0125,0.00949,E major,160.094,4,187893
+Smog,Spanish Moss,Accumulation: None,2002,0.342,0.0567,0.118,-20.102,0.118,0.179,0.897,0.0194,F# minor,141.245,3,132213
+Smog,Chosen One,Accumulation: None,2002,0.449,0.0429,0.427,-9.219,0.104,0.0827,0.493,0.00981,E major,148.45,4,276200
+Smog,Floating,Accumulation: None,2002,0.568,0.05,0.232,-17.022,0.115,0.187,0.942,0.62,G# major,97.702,4,75346
+Smog,Real Live Dress,Accumulation: None,2002,0.259,0.0346,0.168,-14.199,0.112,0.0386,0.977,0.374,B major,126.763,3,324813
+Smog,Came Blue,Accumulation: None,2002,0.219,0.0441,0.0347,-18.824,0.165,0.078,0.932,0.0684,C major,81.774,4,217973
+Smog,Little Girl Shoes,Accumulation: None,2002,0.482,0.0303,0.0336,-22.384,0.108,0.146,0.883,0.797,D major,149.161,3,318840
+Smog,Cold Blooded Old Times,Accumulation: None,2002,0.829,0.0437,0.123,-15.943,0.0872,0.307,0.818,0.0132,C major,107.83,4,225706
+Smog,White Ribbon,Accumulation: None,2002,0.282,0.032,0.516,-8.638,0.0825,0.077,0.87,0.246,G major,125.311,3,244506
+Smog,I Break Horses,Accumulation: None,2002,0.292,0.0401,0.58,-7.338,0.175,0.0484,0.135,0.111,C# minor,165.395,3,374266
+Smog,Hole In The Heart,Accumulation: None,2002,0.612,0.0408,0.541,-13.387,0.179,0.856,0.912,0,F minor,74.527,4,43813
+Smog,Rain On Lens 1,Rain On Lens,2001,0.442,0.0331,0.26,-19.14,0.11,0.126,0.574,0.883,B minor,126.723,4,87160
+Smog,Song,Rain On Lens,2001,0.788,0.142,0.783,-9.006,0.111,0.612,0.296,0.527,E minor,99.991,4,297066
+Smog,Natural Decline,Rain On Lens,2001,0.679,0.0365,0.626,-11.508,0.111,0.49,0.577,0.169,D major,115.351,4,258333
+Smog,Keep Some Steady Friends Around,Rain On Lens,2001,0.712,0.03,0.588,-12.234,0.147,0.833,0.642,0.587,D major,110.385,4,268466
+Smog,Dirty Pants,Rain On Lens,2001,0.389,0.0294,0.216,-12.966,0.0424,0.0771,0.656,0.00141,A# major,143.867,4,271506
+Smog,Lazy Rain,Rain On Lens,2001,0.344,0.0355,0.476,-11.758,0.114,0.13,0.533,0.896,E major,141.211,4,327000
+Smog,Short Drive,Rain On Lens,2001,0.404,0.0379,0.785,-9.551,0.113,0.599,0.368,0.318,G major,120.801,4,207933
+Smog,Live As If Someone Is Always Watching You,Rain On Lens,2001,0.188,0.0279,0.309,-13.028,0.159,0.0367,0.739,0.871,D major,51.084,4,245800
+Smog,Rain On Lens 2,Rain On Lens,2001,0.334,0.0382,0.272,-20.578,0.111,0.0396,0.456,0.892,A minor,130.339,4,91333
+Smog,Revanchism,Rain On Lens,2001,0.635,0.0296,0.401,-11.095,0.115,0.358,0.275,0.702,G major,120.38,4,248560
+Smog,Justice Aversion,Dongs Of Sevotion,2000,0.534,0.0298,0.203,-17.849,0.11,0.0382,0.772,0.0533,C# major,179.61,4,290026
+Smog,Dress Sexy At My Funeral,Dongs Of Sevotion,2000,0.461,0.025,0.494,-12.185,0.112,0.697,0.633,0.0832,G minor,96.337,4,330133
+Smog,Strayed,Dongs Of Sevotion,2000,0.643,0.0376,0.148,-15.587,0.105,0.137,0.925,0.101,E major,82.99,4,365000
+Smog,The Hard Road,Dongs Of Sevotion,2000,0.781,0.166,0.173,-16.187,0.039,0.453,0.244,0,G major,134.146,4,167133
+Smog,Easily Led,Dongs Of Sevotion,2000,0.629,0.0364,0.117,-18.956,0.114,0.0574,0.853,0.0089,C# major,73.565,4,180373
+Smog,Bloodflow,Dongs Of Sevotion,2000,0.509,0.0517,0.267,-17.974,0.189,0.0395,0.125,0.588,C# minor,108.009,4,438666
+Smog,Nineteen,Dongs Of Sevotion,2000,0.444,0.0387,0.0894,-22.922,0.0834,0.0643,0.964,0.431,F# minor,128.134,4,381066
+Smog,Distance,Dongs Of Sevotion,2000,0.276,0.04,0.17,-15.626,0.0834,0.0339,0.59,0.845,C# major,92.247,4,474026
+Smog,Devotion,Dongs Of Sevotion,2000,0.476,0.0348,0.0296,-23.144,0.109,0.0505,0.94,0.592,E minor,101.135,4,355440
+Smog,Cold Discovery,Dongs Of Sevotion,2000,0.585,0.0421,0.302,-15.928,0.0822,0.385,0.639,0.429,B major,156.729,4,356933
+Smog,Permanent Smile,Dongs Of Sevotion,2000,0.512,0.0288,0.456,-11.473,0.104,0.419,0.463,0.597,F major,142.699,4,339600
+Smog,Let's Move To The Country,Knock Knock,1999,0.502,0.0491,0.124,-15.738,0.101,0.19,0.87,0.111,B major,161.638,4,185800
+Smog,Held,Knock Knock,1999,0.539,0.0449,0.754,-9.499,0.102,0.801,0.183,0.00184,G# major,150.335,4,242000
+Smog,River Guard,Knock Knock,1999,0.69,0.0445,0.124,-19.912,0.187,0.107,0.864,0.152,A# minor,78.055,4,382266
+Smog,No Dancing,Knock Knock,1999,0.471,0.0441,0.326,-12.221,0.0816,0.323,0.0544,4.82e-6,G# major,112.876,3,180493
+Smog,Teenage Spaceship,Knock Knock,1999,0.47,0.0461,0.0668,-22.287,0.0935,0.212,0.608,0.0866,D major,141.818,4,238706
+Smog,Cold Blooded Old Times,Knock Knock,1999,0.661,0.0532,0.541,-9.682,0.0933,0.585,0.00131,0.00399,B major,120.978,4,254160
+Smog,Sweet Treat,Knock Knock,1999,0.279,0.035,0.026,-24.697,0.11,0.105,0.963,0.485,G# minor,83.038,3,179506
+Smog,Hit The Ground Running,Knock Knock,1999,0.716,0.0571,0.436,-11.648,0.155,0.557,0.0481,0.548,G major,99.168,4,416600
+Smog,I Could Drive Forever,Knock Knock,1999,0.536,0.0403,0.0554,-20.862,0.104,0.0379,0.605,0.124,E major,97.351,4,315733
+Smog,Left Only With Love,Knock Knock,1999,0.488,0.309,0.00257,-25.384,0.125,0.294,0.914,1.33e-4,D# minor,43.037,4,172000
+Smog,The Morning Paper,Red Apple Falls,1997,0.701,0.0316,0.171,-17.824,0.101,0.0824,0.758,0.901,F# major,112.631,4,202226
+Smog,Blood Red Bird,Red Apple Falls,1997,0.617,0.043,0.305,-12.018,0.11,0.306,0.853,0.0804,G# minor,112.392,4,241973
+Smog,Red Apples,Red Apple Falls,1997,0.322,0.0462,0.0188,-25.971,0.0934,0.115,0.769,0.0404,A minor,37.365,4,306800
+Smog,I Was A Stranger,Red Apple Falls,1997,0.674,0.0298,0.345,-14.259,0.111,0.299,0.883,0.0303,E major,108.364,4,203960
+Smog,To Be Of Use,Red Apple Falls,1997,0.558,0.0518,0.016,-24.847,0.113,0.19,0.883,0.493,E major,73.405,3,341800
+Smog,Red Apple Falls,Red Apple Falls,1997,0.426,0.0374,0.0873,-23.151,0.204,0.0695,0.917,0.357,F# major,85.435,4,409600
+Smog,Ex-Con,Red Apple Falls,1997,0.787,0.0342,0.578,-11.807,0.0756,0.859,0.244,0.157,C major,130.964,4,215506
+Smog,Inspirational,Red Apple Falls,1997,0.301,0.0272,0.3,-14.635,0.0937,0.0967,0.899,0.779,E major,89.17,4,385800
+Smog,Finer Days,Red Apple Falls,1997,0.453,0.0455,0.0556,-26.031,0.11,0.0444,0.991,0.31,E major,104.662,4,290866
+Smog,You Moved In,The Doctor Came At Dawn,1996,0.253,0.0281,0.194,-14.407,0.349,0.0399,0.926,0.1,E major,88.405,3,274600
+Smog,Somewhere In The Night,The Doctor Came At Dawn,1996,0.663,0.036,0.444,-9.851,0.0949,0.221,0.845,7.41e-4,C# major,127.636,4,130093
+Smog,Lize,The Doctor Came At Dawn,1996,0.512,0.0366,0.121,-17.08,0.094,0.0577,0.914,0.0222,E major,90.331,4,358173
+Smog,Spread Your Bloody Wings,The Doctor Came At Dawn,1996,0.274,0.0397,0.0746,-24.789,0.112,0.0903,0.322,0.36,B minor,96.234,4,207866
+Smog,Carmelite Light,The Doctor Came At Dawn,1996,0.218,0.0602,0.438,-18.617,0.331,0.0289,0.996,0.69,D# minor,143.742,4,42826
+Smog,Everything You Touch Becomes A Crutch,The Doctor Came At Dawn,1996,0.363,0.0517,0.461,-9.999,0.128,0.759,0.817,0.0481,D# major,85.121,4,154933
+Smog,All Your Women Things,The Doctor Came At Dawn,1996,0.354,0.0318,0.215,-15.413,0.114,0.047,0.886,0.348,C# minor,97.638,3,407933
+Smog,Whistling Teapot (Rag),The Doctor Came At Dawn,1996,0.505,0.033,0.47,-12.109,0.14,0.398,0.915,0.414,F# major,88.419,4,219000
+Smog,Four Hearts In A Can,The Doctor Came At Dawn,1996,0.384,0.0326,0.177,-15.669,0.11,0.159,0.808,6.84e-4,G# major,111.92,4,252333
+Smog,Hangman Blues,The Doctor Came At Dawn,1996,0.517,0.323,0.00352,-19.331,0.313,0.625,0.0909,0,C# minor,97.261,4,289800
+Smog,Bathysphere,Wild Love,1995,0.783,0.0362,0.705,-14.031,0.0675,0.897,0.41,0.689,G minor,105.04,4,290000
+Smog,Wild Love,Wild Love,1995,0.225,0.041,0.247,-18.53,0.281,0.0388,0.579,0.197,E minor,129.996,3,95333
+Smog,Sweet Smog Children,Wild Love,1995,0.564,0.0459,0.281,-18.767,0.24,0.722,0.426,0,C# minor,110.759,4,101360
+Smog,Bathroom Floor,Wild Love,1995,0.328,0.0389,0.0886,-19.06,0.0753,0.182,0.721,0.00748,F minor,103.53,4,115240
+Smog,The Emperor,Wild Love,1995,0.554,0.117,0.526,-16.169,0.0517,0.344,0.14,0.812,G# major,81.281,4,71200
+Smog,Limited Capacity,Wild Love,1995,0.557,0.193,0.054,-23.737,0.121,0.365,0.942,0,A minor,111.855,3,78400
+Smog,It's Rough,Wild Love,1995,0.688,0.0351,0.371,-17.397,0.0624,0.504,0.296,0.315,B minor,105.068,4,285533
+Smog,Sleepy Joe,Wild Love,1995,0.437,0.0708,0.932,-10.616,0.0583,0.308,0.0245,2.27e-4,F minor,122.105,4,233026
+Smog,The Candle,Wild Love,1995,0.214,0.0336,0.191,-17.299,0.167,0.167,0.885,0,F major,86.785,4,146133
+Smog,Be Hit,Wild Love,1995,0.468,0.051,0.347,-15.037,0.191,0.619,0.308,0.00264,G# minor,106.897,4,143173
+Smog,Prince Alone In The Studio,Wild Love,1995,0.232,0.0317,0.37,-13.553,0.266,0.0614,0.0272,0.0996,F major,110.953,4,435160
+Smog,Goldfish Bowl,Wild Love,1995,0.532,0.0585,0.407,-18.279,0.105,0.417,0.506,0.00331,C# major,125.328,4,120533
+Smog,Souped Up II,Sewn to the Sky,1995,0.319,0.0729,0.696,-12.209,0.0873,0.192,0.905,0.726,D# minor,68.675,3,83426
+Smog,Kings Tongue,Sewn to the Sky,1995,0.598,0.0439,0.662,-12.343,0.29,0.962,0.694,0.466,C# major,110.491,4,181866
+Smog,Garb,Sewn to the Sky,1995,0.28,0.0763,0.21,-16.923,0.342,0.126,0.939,0.00754,B major,171.347,4,105973
+Smog,Hollow Out Cakes,Sewn to the Sky,1995,0.162,0.0418,0.596,-10.165,0.11,0.444,0.0304,0.844,E minor,92.414,4,134600
+Smog,Confederate Bills and Pinball Slugs,Sewn to the Sky,1995,0.357,0.032,0.557,-9.885,0.508,0.818,0.00764,0.00209,A major,72.309,1,99066
+Smog,Coconut Cataract,Sewn to the Sky,1995,0.0735,0.0491,0.681,-10.688,0.36,0.151,0.73,0.731,C minor,180.255,4,74800
+Smog,Fruit Bats,Sewn to the Sky,1995,0.634,0.315,0.807,-11.292,0.0875,0.468,0.463,0,A minor,94.193,4,74760
+Smog,Peach Pit,Sewn to the Sky,1995,0.476,0.226,0.522,-12.014,0.13,0.216,0.314,0.0039,G# major,173.026,3,83506
+Smog,Disgust,Sewn to the Sky,1995,0.35,0.0422,0.109,-25.655,0.121,0.156,0.825,0.899,C# major,75.41,3,49160
+Smog,Russian Winter,Sewn to the Sky,1995,0.311,0.0427,0.462,-14.091,0.0756,0.0861,0.594,0.793,A minor,141.044,4,197440
+Smog,Polio Shimmy,Sewn to the Sky,1995,0.486,0.0524,0.535,-12.11,0.169,0.653,0.772,0.765,F major,152.181,3,115866
+Smog,Smog,Sewn to the Sky,1995,0.498,0.0698,0.962,-12.78,0.107,0.555,0.753,0.917,A# minor,140.279,4,93960
+Smog,Lost My Key,Sewn to the Sky,1995,0.295,0.0534,0.63,-10.32,0.237,0.514,0.623,0.206,A# major,110.453,4,240866
+Smog,Fried Piper,Sewn to the Sky,1995,0.383,0.145,0.791,-12.583,0.404,0.221,0.883,0.69,F major,67.226,5,65773
+Smog,Fables,Sewn to the Sky,1995,0.451,0.0654,0.208,-21.057,0.101,0.178,0.323,6.19e-4,A minor,101.248,4,98400
+Smog,Puritan Work Ethic,Sewn to the Sky,1995,0.278,0.176,0.837,-12.651,0.309,0.29,0.965,0.853,C major,96.117,4,141293
+Smog,A Jar of Sand,Sewn to the Sky,1995,0.355,0.0465,0.567,-10.424,0.154,0.184,0.789,0.618,G major,105.815,4,157906
+Smog,I Want to Tell You About a Man,Sewn to the Sky,1995,0.353,0.0816,0.645,-9.552,0.0834,0.662,0.575,0,A# minor,100.077,4,61866
+Smog,Olive Drab Spectre,Sewn to the Sky,1995,0.247,0.0739,0.749,-10.39,0.0532,0.0337,0.94,0.953,C# major,107.047,3,96133
+Smog,The Weightlifter,Sewn to the Sky,1995,0.211,0.0339,0.259,-10.994,0.0874,0.265,0.742,0,G# major,174.623,3,119826
+Smog,Strawberry Rash,Julius Caesar,1993,0.608,0.102,0.174,-13.646,0.0965,0.079,0.617,0.043,A major,147.047,4,187706
+Smog,Your Wedding,Julius Caesar,1993,0.439,0.037,0.267,-10.35,0.102,0.0375,0.747,1.1e-5,D major,129.422,4,162066
+Smog,37 Push Ups,Julius Caesar,1993,0.569,0.028,0.535,-8.83,0.355,0.631,0.832,1.69e-5,A# major,104.506,4,137960
+Smog,Stalled On The Tracks,Julius Caesar,1993,0.649,0.0673,0.954,-11.963,0.0954,0.276,0.751,0.809,C# major,119.6,4,204466
+Smog,One Less Star,Julius Caesar,1993,0.184,0.036,0.164,-14.327,0.103,0.305,0.79,0.75,G major,102.104,4,179933
+Smog,Golden,Julius Caesar,1993,0.518,0.0317,0.204,-12.192,0.07,0.3,0.721,0,G# minor,109.569,4,74706
+Smog,When You Walk,Julius Caesar,1993,0.609,0.03,0.367,-12.516,0.0984,0.444,0.843,0.143,G major,76.374,4,185733
+Smog,I Am Star Wars!,Julius Caesar,1993,0.637,0.0728,0.458,-11.41,0.0769,0.307,0.662,0,F major,122.157,4,169600
+Smog,Connections,Julius Caesar,1993,0.5,0.251,0.328,-15.817,0.271,0.502,0.195,0,A major,169.772,4,130066
+Smog,When The Power Goes Out,Julius Caesar,1993,0.304,0.0429,0.744,-8.815,0.371,0.652,0.393,0,C# major,131.664,1,85266
+Smog,Chosen One,Julius Caesar,1993,0.493,0.0288,0.231,-15.412,0.105,0.0969,0.956,7.54e-4,B major,101.552,4,192226
+Smog,What Kind Of Angel,Julius Caesar,1993,0.268,0.0312,0.507,-8.54,0.241,0.393,0.278,0,F# major,76.626,4,205173
+Smog,Stick In The Mud,Julius Caesar,1993,0.281,0.0284,0.214,-14.342,0.135,0.0788,0.695,0.0111,A# major,83.935,4,302960
+Smog,Burning Kingdom,Forgotten Foundation,1992,0.397,0.0411,0.3,-12.983,0.165,0.108,0.952,0.57,F# major,139.61,3,73400
+Smog,Filament,Forgotten Foundation,1992,0.333,0.0858,0.619,-10.791,0.291,0.353,0.855,0.00111,G# major,137.333,4,117866
+Smog,High School Freak,Forgotten Foundation,1992,0.625,0.292,0.986,-10.588,0.477,0.038,0.824,0.0113,A# major,112.531,1,132600
+Smog,Your Dress,Forgotten Foundation,1992,0.771,0.0326,0.406,-13.985,0.0665,0.965,0.855,7.72e-6,F# major,94.344,4,139133
+Smog,Barometric Pressure,Forgotten Foundation,1992,0.586,0.0366,0.737,-11.858,0.122,0.277,0.148,0.72,F# major,106.001,4,128666
+Smog,Guitar Innovator,Forgotten Foundation,1992,0.379,0.508,0.754,-14.721,0.173,0.742,0.966,0.928,C# major,80.909,3,86266
+Smog,Evil Tyrant,Forgotten Foundation,1992,0.746,0.703,0.696,-15.403,0.138,0.516,0.904,0.229,G# major,59.804,4,158333
+Smog,Head of Stone I,Forgotten Foundation,1992,0.612,0.041,0.495,-17.342,0.172,0.474,0.08,0.105,D major,102.345,4,114826
+Smog,Head of Stone II,Forgotten Foundation,1992,0.108,0.0352,0.473,-14.448,0.0967,0.492,0.52,0.0168,D major,170.72,3,162066
+Smog,Long Gray Hair,Forgotten Foundation,1992,0.386,0.0551,0.283,-18.921,0.437,0.239,0.966,0.829,D# major,86.344,4,77000
+Smog,Kiss Your Lips,Forgotten Foundation,1992,0.205,0.0504,0.406,-15.348,0.0925,0.0485,0.794,0.223,B major,125.815,1,128106
+Smog,Bad Ideas for Country Songs I,Forgotten Foundation,1992,0.532,0.0567,0.811,-14.619,0.203,0.673,0.101,0.00375,A# major,120.882,4,101133
+Smog,Bad Ideas for Country Songs II,Forgotten Foundation,1992,0.326,0.458,0.723,-17.388,0.412,0.525,0.645,5.51e-4,G# major,162.042,3,45066
+Smog,Dead River,Forgotten Foundation,1992,0.452,0.0406,0.846,-10.439,0.125,0.332,0.555,0.921,G# minor,95.505,4,203533
+Smog,Bad Investment,Forgotten Foundation,1992,0.417,0.0414,0.514,-15.929,0.353,0.29,0.639,0.00382,G major,138.693,3,156466
+Smog,Brown Bag,Forgotten Foundation,1992,0.596,0.0376,0.316,-16.199,0.108,0.0396,0.579,0.961,G# major,119.241,4,152826
+Smog,Let Me Have That Jar Back,Forgotten Foundation,1992,0.611,0.0643,0.36,-19.146,0.134,0.107,0.941,0.0171,F# major,125.871,1,73800
+Smog,This Insane Cop,Forgotten Foundation,1992,0.494,0.0307,0.706,-14.77,0.0862,0.575,0.559,0.963,G# major,118.082,4,164173
+Smog,97th Street,Forgotten Foundation,1992,0.102,0.0449,0.462,-15.398,0.243,0.271,0.86,0.651,D# major,83.79,4,140333
+Smog,Do the Bed,Forgotten Foundation,1992,0.145,0.0386,0.331,-14.571,0.0464,0.189,0.00145,0.684,A# minor,49.591,4,143800
+Smog,I'm Smiling,Forgotten Foundation,1992,0.439,0.0605,0.177,-15.022,0.146,0.158,0.947,0,C major,84.939,3,132533
+Smog,With a Green Complexion,Forgotten Foundation,1992,0.49,0.0517,0.284,-20.222,0.111,0.158,0.692,0.884,C# major,134.103,4,129826

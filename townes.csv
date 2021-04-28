@@ -1,0 +1,439 @@
+artist_name,track_name,album_name,album_release_year,danceability,speechiness,energy,loudness,liveness,valence,acousticness,instrumentalness,key_mode,tempo,time_signature,duration_ms
+Townes Van Zandt,Intro,Somebody Had To Write It,2020,0.679,0.9,0.319,-18.241,0.338,0.961,0.561,0,A# minor,149.612,3,21693
+Townes Van Zandt,Waitin' Round To Die (Acoustic Live),Somebody Had To Write It,2020,0.398,0.0622,0.139,-18.056,0.22,0.34,0.898,0,C minor,76.696,3,150133
+Townes Van Zandt,Tecumseh Valley (Acoustic Live),Somebody Had To Write It,2020,0.526,0.048,0.0983,-18.431,0.22,0.346,0.831,3.53e-5,C major,79.943,4,251440
+Townes Van Zandt,If I Needed You (Acoustic Live),Somebody Had To Write It,2020,0.509,0.0314,0.124,-18.509,0.198,0.24,0.941,1.34e-4,B major,88.896,4,154373
+Townes Van Zandt,Pancho & Lefty (Acoustic Live),Somebody Had To Write It,2020,0.529,0.0787,0.176,-17.55,0.273,0.292,0.872,2.31e-6,B minor,79.292,4,218533
+Townes Van Zandt,Blaze's Blues (Acoustic Live),Somebody Had To Write It,2020,0.611,0.0316,0.169,-17.101,0.226,0.642,0.623,3.15e-4,A major,94.079,4,186640
+Townes Van Zandt,Somebody Had To Write It (Acoustic Live),Somebody Had To Write It,2020,0.666,0.794,0.152,-24.946,0.123,0.411,0.829,4.88e-5,G minor,110.6,5,60960
+Townes Van Zandt,Marie (Acoustic Live),Somebody Had To Write It,2020,0.529,0.04,0.0619,-21.174,0.111,0.486,0.928,1.07e-4,A major,133.788,4,301560
+Townes Van Zandt,The Hole (Acoustic Live),Somebody Had To Write It,2020,0.63,0.0542,0.137,-19.104,0.302,0.371,0.774,2.36e-4,A# minor,84.704,4,272026
+Townes Van Zandt,Cowboy Junkies Lament (Acoustic Live),Somebody Had To Write It,2020,0.597,0.0495,0.18,-17.293,0.139,0.316,0.912,3.04e-4,E major,126.328,4,215106
+Townes Van Zandt,Brand New Companion (Acoustic Live),Somebody Had To Write It,2020,0.574,0.0391,0.175,-15.634,0.131,0.239,0.843,0.016,B minor,103.267,3,288040
+Townes Van Zandt,I'll Be Here In The Morning (Acoustic Live),Somebody Had To Write It,2020,0.547,0.0488,0.151,-15.943,0.111,0.415,0.905,0,C major,78.28,4,157866
+Townes Van Zandt,All I Need,Sky Blue,2019,0.368,0.0301,0.36,-8.724,0.273,0.41,0.714,0.00445,E major,148.577,4,170346
+Townes Van Zandt,Rex's Blues,Sky Blue,2019,0.639,0.0379,0.347,-9.025,0.103,0.396,0.958,0,E major,78.893,4,132893
+Townes Van Zandt,The Hills of Roane County,Sky Blue,2019,0.49,0.0307,0.402,-8.025,0.128,0.512,0.941,1.64e-4,C major,134.125,5,230826
+Townes Van Zandt,Sky Blue,Sky Blue,2019,0.492,0.0312,0.304,-9.986,0.142,0.436,0.924,0.00634,C major,79.708,4,151693
+Townes Van Zandt,"Forever, For Always, For Certain",Sky Blue,2019,0.522,0.029,0.316,-8.965,0.135,0.474,0.989,0.0113,D major,127.905,3,145653
+Townes Van Zandt,Blue Ridge Mtns. (Smoky Version),Sky Blue,2019,0.421,0.0286,0.564,-5.075,0.2,0.75,0.903,4.67e-4,D major,112.168,4,174933
+Townes Van Zandt,Pancho & Lefty,Sky Blue,2019,0.531,0.0276,0.399,-7.374,0.173,0.357,0.949,0.00158,C# major,138.268,4,231666
+Townes Van Zandt,Snake Song,Sky Blue,2019,0.365,0.0332,0.329,-6.355,0.169,0.541,0.948,2.33e-5,B minor,184.623,4,125813
+Townes Van Zandt,Silver Ships of Andilar,Sky Blue,2019,0.442,0.031,0.476,-4.075,0.113,0.441,0.921,8.75e-6,C minor,73.418,3,327893
+Townes Van Zandt,Dream Spider,Sky Blue,2019,0.428,0.0304,0.367,-8.508,0.121,0.483,0.929,6.29e-5,G major,95.283,3,115346
+Townes Van Zandt,Last Thing on My Mind,Sky Blue,2019,0.441,0.028,0.483,-6.663,0.123,0.523,0.917,0.0174,G major,81.133,4,221680
+Townes Van Zandt,All I Need,Sky Blue,2019,0.327,0.0311,0.36,-8.724,0.274,0.412,0.718,0.00491,E major,74.443,4,170346
+Townes Van Zandt,Rex's Blues,Sky Blue,2019,0.629,0.0389,0.347,-9.004,0.101,0.395,0.958,0,E major,78.763,4,132893
+Townes Van Zandt,The Hills of Roane County,Sky Blue,2019,0.493,0.0307,0.403,-8.023,0.128,0.51,0.943,1.68e-4,C major,134.103,5,230826
+Townes Van Zandt,Sky Blue,Sky Blue,2019,0.502,0.031,0.304,-9.986,0.142,0.437,0.923,0.00571,C major,79.644,4,151693
+Townes Van Zandt,"Forever, For Always, For Certain",Sky Blue,2019,0.522,0.029,0.317,-8.965,0.134,0.474,0.988,0.00904,D major,127.905,3,145653
+Townes Van Zandt,Blue Ridge Mtns. - Smoke Version,Sky Blue,2019,0.422,0.0286,0.564,-5.074,0.216,0.758,0.902,4.76e-4,D major,112.169,4,174933
+Townes Van Zandt,Pancho & Lefty,Sky Blue,2019,0.541,0.0275,0.4,-7.37,0.173,0.33,0.949,0.00182,C# major,138.268,4,231666
+Townes Van Zandt,Snake Song,Sky Blue,2019,0.365,0.0332,0.328,-6.355,0.169,0.541,0.947,2.86e-5,B minor,184.741,4,125813
+Townes Van Zandt,Silver Ships of Andilar,Sky Blue,2019,0.401,0.0317,0.474,-4.078,0.112,0.458,0.922,9.39e-6,C minor,146.74,3,327893
+Townes Van Zandt,Dream Spider,Sky Blue,2019,0.478,0.0304,0.366,-8.508,0.121,0.468,0.93,4.76e-5,G major,93.621,3,115346
+Townes Van Zandt,Last Thing on My Mind,Sky Blue,2019,0.43,0.028,0.483,-6.663,0.123,0.528,0.912,0.0143,G major,81.257,4,221680
+Townes Van Zandt,"Intro - The Down Home: Johnson City, Tn. April 18 1985",Down Home and Abroad,2018,0.537,0.959,0.439,-20.28,0.391,0.235,0.704,8.18e-6,F# minor,191.352,4,57213
+Townes Van Zandt,"Dollar Bill Blues - The Down Home: Johnson City, Tn. April 18 1985",Down Home and Abroad,2018,0.637,0.0865,0.47,-12.505,0.31,0.776,0.722,3.41e-4,B minor,115.916,4,172493
+Townes Van Zandt,"Pancho and Lefty - The Down Home: Johnson City, Tn. April 18 1985",Down Home and Abroad,2018,0.49,0.363,0.38,-14.867,0.208,0.671,0.878,7.19e-5,D major,138.907,4,287866
+Townes Van Zandt,"Buckskin Stallion Blues - The Down Home: Johnson City, Tn. April 18 1985",Down Home and Abroad,2018,0.649,0.0778,0.269,-17.989,0.149,0.624,0.923,0.00117,B major,115.324,4,212146
+Townes Van Zandt,"No Place to Fall - The Down Home: Johnson City, Tn. April 18 1985",Down Home and Abroad,2018,0.598,0.194,0.244,-18.268,0.127,0.572,0.857,3.15e-4,E major,113.9,3,229306
+Townes Van Zandt,"Talking Thunderbird Blues - The Down Home: Johnson City, Tn. April 18 1985",Down Home and Abroad,2018,0.641,0.727,0.222,-19.229,0.403,0.801,0.918,0.00203,E major,103.267,3,147986
+Townes Van Zandt,"Mr Gold and Mr Mud - The Down Home: Johnson City, Tn. April 18 1985",Down Home and Abroad,2018,0.645,0.451,0.391,-13.885,0.149,0.711,0.89,0.00673,E minor,103.362,4,178760
+Townes Van Zandt,"If I Needed You - The Down Home: Johnson City, Tn. April 18 1985",Down Home and Abroad,2018,0.418,0.503,0.379,-15.196,0.309,0.731,0.852,0.00563,C major,164.494,3,268786
+Townes Van Zandt,"Snowing on Raton - The Down Home: Johnson City, Tn. April 18 1985",Down Home and Abroad,2018,0.583,0.114,0.382,-14.611,0.192,0.662,0.911,0.0143,E major,78.237,4,264120
+Townes Van Zandt,"To Live is to Fly - The Down Home: Johnson City, Tn. April 18 1985",Down Home and Abroad,2018,0.589,0.506,0.396,-14.673,0.296,0.649,0.845,3.87e-4,D major,72.409,3,236933
+Townes Van Zandt,"Don't You Take It Too Bad - The Down Home: Johnson City, Tn. April 18 1985",Down Home and Abroad,2018,0.551,0.0966,0.281,-14.809,0.295,0.614,0.831,0.02,C major,113.008,3,255906
+Townes Van Zandt,"Snake Mountain Blues - The Down Home: Johnson City, Tn. April 18 1985",Down Home and Abroad,2018,0.491,0.339,0.439,-12.713,0.116,0.693,0.843,0.00225,E minor,112.469,4,224960
+Townes Van Zandt,"Rake - The Down Home: Johnson City, Tn. April 18 1985",Down Home and Abroad,2018,0.522,0.184,0.2,-16.095,0.481,0.494,0.91,8.73e-5,C major,141.42,3,282493
+Townes Van Zandt,"Fraternity Blues - The Down Home: Johnson City, Tn. April 18 1985",Down Home and Abroad,2018,0.614,0.7,0.277,-18.126,0.224,0.902,0.795,4.77e-4,C major,113.772,4,169413
+Townes Van Zandt,"Colorado Girl/Just Like Tom Thumb - The Down Home: Johnson City, Tn. April 18 1985",Down Home and Abroad,2018,0.515,0.0535,0.262,-14.642,0.687,0.382,0.88,2.1e-4,E major,77.649,4,476493
+Townes Van Zandt,"Dollar Bill Blues - The Tavastia: Helsinki, Finland, June 18th 1993",Down Home and Abroad,2018,0.554,0.0802,0.605,-10.53,0.126,0.529,0.799,1.89e-5,B minor,101.985,3,196240
+Townes Van Zandt,"Pancho and Lefty - The Tavastia: Helsinki, Finland, June 18th 1993",Down Home and Abroad,2018,0.476,0.09,0.49,-10.31,0.754,0.398,0.817,0,B minor,139.829,4,261653
+Townes Van Zandt,"Brand New Companion - The Tavastia: Helsinki, Finland, June 18th 1993",Down Home and Abroad,2018,0.575,0.0482,0.329,-11.065,0.254,0.33,0.836,9.25e-5,A major,108.6,4,321426
+Townes Van Zandt,"Two Girls - The Tavastia: Helsinki, Finland, June 18th 1993",Down Home and Abroad,2018,0.544,0.0893,0.436,-11.13,0.75,0.394,0.859,0,D major,133.808,4,241853
+Townes Van Zandt,"Lungs - The Tavastia: Helsinki, Finland, June 18th 1993",Down Home and Abroad,2018,0.447,0.845,0.616,-13.367,0.618,0.355,0.832,7.11e-6,A minor,97.535,3,91186
+Townes Van Zandt,"Rex's Blues - The Tavastia: Helsinki, Finland, June 18th 1993",Down Home and Abroad,2018,0.556,0.581,0.373,-13.578,0.468,0.166,0.863,0,G# major,137.146,4,498293
+Townes Van Zandt,"Nothin' - The Tavastia: Helsinki, Finland, June 18th 1993",Down Home and Abroad,2018,0.532,0.0613,0.411,-11.565,0.686,0.482,0.869,8.28e-5,C# major,139.091,4,223586
+Townes Van Zandt,"The Ribbons of Love - The Tavastia: Helsinki, Finland, June 18th 1993",Down Home and Abroad,2018,0.528,0.0809,0.281,-13.107,0.49,0.196,0.892,0,A# minor,127.149,3,263106
+Townes Van Zandt,"Kathleen - The Tavastia: Helsinki, Finland, June 18th 1993",Down Home and Abroad,2018,0.562,0.658,0.359,-14.115,0.554,0.168,0.867,0,F minor,99.32,4,458760
+Townes Van Zandt,"The Cuckoo - The Tavastia: Helsinki, Finland, June 18th 1993",Down Home and Abroad,2018,0.5,0.094,0.557,-11.91,0.687,0.598,0.864,0.00107,C# minor,97.091,4,306040
+Townes Van Zandt,"Brother Flower - The Tavastia: Helsinki, Finland, June 18th 1993",Down Home and Abroad,2018,0.521,0.128,0.231,-13.038,0.741,0.374,0.956,5.72e-5,E major,142.105,3,116040
+Townes Van Zandt,"If I Needed You - The Tavastia: Helsinki, Finland, June 18th 1993",Down Home and Abroad,2018,0.48,0.189,0.455,-13.148,0.731,0.427,0.935,7.69e-5,F# major,76.697,3,200493
+Townes Van Zandt,"Pinball Machine (1st Verse) - The Tavastia: Helsinki, Finland, June 18th 1993",Down Home and Abroad,2018,0.536,0.917,0.224,-15.326,0.229,0.36,0.867,0,F# major,164.776,5,72800
+Townes Van Zandt,"Tecumseh Valley - The Tavastia: Helsinki, Finland, June 18th 1993",Down Home and Abroad,2018,0.52,0.0944,0.34,-13.454,0.649,0.33,0.874,2.46e-6,C major,120.733,4,502680
+Townes Van Zandt,"Flyin' Shoes - The Tavastia: Helsinki, Finland, June 18th 1993",Down Home and Abroad,2018,0.471,0.033,0.355,-12.013,0.454,0.222,0.861,2.41e-5,A minor,121.695,4,251373
+Townes Van Zandt,"Don't You Take It Too Bad - The Tavastia: Helsinki, Finland, June 18th 1993",Down Home and Abroad,2018,0.52,0.0338,0.309,-11.599,0.701,0.279,0.81,0,C major,110.455,3,170173
+Townes Van Zandt,A Song For,No Deeper Blue,2012,0.413,0.0392,0.322,-13.325,0.0988,0.244,0.435,4.71e-6,B minor,146.694,3,182853
+Townes Van Zandt,Blaze's Blue,No Deeper Blue,2012,0.609,0.033,0.519,-11.394,0.153,0.625,0.509,6.34e-5,A major,97.169,4,203506
+Townes Van Zandt,The Hole,No Deeper Blue,2012,0.683,0.136,0.517,-14.077,0.103,0.738,0.19,1.39e-4,A major,84.176,4,252253
+Townes Van Zandt,Marie,No Deeper Blue,2012,0.508,0.0476,0.409,-13.35,0.0488,0.533,0.227,5.36e-6,E minor,79.242,4,288240
+Townes Van Zandt,Goin' Down to Memphis,No Deeper Blue,2012,0.733,0.0317,0.56,-10.863,0.17,0.813,0.338,0.00135,A major,108.254,4,251680
+Townes Van Zandt,Hey Willy Boy,No Deeper Blue,2012,0.602,0.0411,0.275,-13.22,0.052,0.54,0.71,3.81e-6,C major,74.312,4,139613
+Townes Van Zandt,Niles River Blues,No Deeper Blue,2012,0.485,0.0354,0.44,-10.347,0.276,0.59,0.759,0,B major,145.054,3,186520
+Townes Van Zandt,"Billy, Boney and Ma",No Deeper Blue,2012,0.487,0.0818,0.395,-12.343,0.0888,0.48,0.57,0,G# major,75.284,4,316013
+Townes Van Zandt,Katie Belle Blue,No Deeper Blue,2012,0.584,0.0304,0.337,-14.062,0.093,0.386,0.921,0,A major,112.345,3,199240
+Townes Van Zandt,If I Was Washington,No Deeper Blue,2012,0.618,0.0334,0.611,-11.877,0.0974,0.731,0.737,2.74e-5,B major,87.11,4,151213
+Townes Van Zandt,Lover's Lullaby,No Deeper Blue,2012,0.543,0.0278,0.332,-11.885,0.34,0.311,0.466,7.37e-6,C major,66.925,4,252720
+Townes Van Zandt,Cowboy Junkies Lament,No Deeper Blue,2012,0.436,0.0313,0.602,-9.538,0.319,0.673,0.581,6.12e-4,E major,73.134,4,199480
+Townes Van Zandt,BW Railroad Blues,No Deeper Blue,2012,0.573,0.0294,0.627,-11.557,0.0946,0.777,0.463,2.31e-4,B major,99.89,4,234613
+Townes Van Zandt,Gone Too Long,No Deeper Blue,2012,0.634,0.0578,0.548,-12.556,0.09,0.787,0.446,4.95e-6,A major,90.667,4,172680
+Townes Van Zandt,Pancho & Lefty,Rear View Mirror,2008,0.313,0.0305,0.452,-8.058,0.564,0.412,0.446,4.62e-6,D major,75.742,4,241080
+Townes Van Zandt,If I Needed You,Rear View Mirror,2008,0.188,0.0332,0.412,-10.458,0.106,0.609,0.527,2.17e-4,C major,176.88,4,162106
+Townes Van Zandt,For The Sake of The Song,Rear View Mirror,2008,0.558,0.0285,0.468,-9.026,0.149,0.321,0.622,2.51e-6,B major,114.974,4,278826
+Townes Van Zandt,Our Mother the Mountain,Rear View Mirror,2008,0.212,0.0317,0.437,-9.166,0.235,0.609,0.707,5.35e-6,D minor,169.454,3,178880
+Townes Van Zandt,To Live Is to Fly,Rear View Mirror,2008,0.297,0.0292,0.486,-8.061,0.19,0.479,0.578,1.49e-4,D major,139.113,4,248946
+Townes Van Zandt,Lungs,Rear View Mirror,2008,0.359,0.0283,0.53,-7.459,0.0876,0.667,0.29,4.52e-5,D major,106.534,4,157493
+Townes Van Zandt,Flying Shoes,Rear View Mirror,2008,0.414,0.0297,0.439,-8.408,0.573,0.437,0.329,9.56e-4,A minor,72.144,4,211573
+Townes Van Zandt,No Place To Fail,Rear View Mirror,2008,0.33,0.031,0.412,-9.319,0.122,0.402,0.775,0.00228,E major,117.415,3,191400
+Townes Van Zandt,Dollar Bill Blues,Rear View Mirror,2008,0.375,0.033,0.541,-7.922,0.362,0.749,0.667,4.04e-6,B minor,124.348,4,143653
+Townes Van Zandt,White Freightliner Blues,Rear View Mirror,2008,0.47,0.0316,0.525,-9.198,0.236,0.772,0.35,6.15e-4,C major,120.727,4,257666
+Townes Van Zandt,Tecumseh Valley,Rear View Mirror,2008,0.348,0.0316,0.374,-11.374,0.16,0.456,0.459,0.00107,C major,78.583,3,281880
+Townes Van Zandt,Don't You Take It Too Bad,Rear View Mirror,2008,0.353,0.0325,0.461,-8.417,0.104,0.447,0.531,0.00219,C major,119.441,3,215360
+Townes Van Zandt,Tower Song,Rear View Mirror,2008,0.438,0.0249,0.475,-9.013,0.317,0.379,0.686,4.39e-5,E major,97.672,4,186013
+Townes Van Zandt,Rex's Blues,Rear View Mirror,2008,0.377,0.0291,0.523,-8.881,0.672,0.517,0.792,3.33e-6,E major,159.114,4,142573
+Townes Van Zandt,Brother Flower,Rear View Mirror,2008,0.366,0.0303,0.481,-7.816,0.243,0.657,0.601,2.58e-4,D major,169.441,4,164386
+Townes Van Zandt,Waitin' Round to Die,Rear View Mirror,2008,0.385,0.0314,0.481,-8.27,0.055,0.497,0.417,1.64e-4,F# major,90.998,4,192466
+Townes Van Zandt,Colorado Girl,Rear View Mirror,2008,0.341,0.0291,0.471,-8.923,0.161,0.493,0.499,0.0158,E major,86.297,4,207200
+Townes Van Zandt,I've Designed It That Way,Be Here to Love Me,2005,0.447,0.309,0.37,-19.087,0.108,0.45,0.913,0.793,D# minor,131.868,4,16640
+Townes Van Zandt,At My Window,Be Here to Love Me,2005,0.575,0.028,0.421,-14.034,0.126,0.35,0.763,1.09e-5,E major,108.665,4,226786
+Townes Van Zandt,Highway Kind,Be Here to Love Me,2005,0.687,0.0513,0.137,-15.215,0.102,0.0695,0.84,3.75e-5,E minor,133.674,4,137946
+Townes Van Zandt,Rake,Be Here to Love Me,2005,0.45,0.0361,0.266,-14.105,0.0809,0.259,0.917,0,C major,132.3,3,245013
+Townes Van Zandt,Pancho and Lefty,Be Here to Love Me,2005,0.494,0.0771,0.278,-13.004,0.751,0.611,0.889,3.99e-6,C# major,141.659,4,247840
+Townes Van Zandt,My Proud Mountains,Be Here to Love Me,2005,0.533,0.0325,0.179,-14.78,0.0684,0.287,0.855,1.71e-6,G major,107.461,3,304546
+Townes Van Zandt,Nothin',Be Here to Love Me,2005,0.527,0.0317,0.261,-12.875,0.0782,0.427,0.886,1.88e-4,C minor,80.959,4,208213
+Townes Van Zandt,Dollar Bill Blues,Be Here to Love Me,2005,0.618,0.0308,0.366,-11.313,0.532,0.589,0.7,2.05e-4,F# minor,103.276,5,174413
+Townes Van Zandt,Waitin' Round to Die,Be Here to Love Me,2005,0.607,0.0397,0.561,-11.266,0.144,0.507,0.549,9.46e-6,A minor,102.485,4,145186
+Townes Van Zandt,If I Needed You,Be Here to Love Me,2005,0.543,0.0332,0.205,-16.286,0.796,0.56,0.882,2.91e-4,A# major,79.895,4,203480
+Townes Van Zandt,Where I Lead Me,Be Here to Love Me,2005,0.54,0.0408,0.429,-11.595,0.0846,0.88,0.446,2.48e-4,A# minor,174.275,4,170533
+Townes Van Zandt,Be Here to Love Me,Be Here to Love Me,2005,0.621,0.029,0.396,-10.794,0.137,0.58,0.612,0,B major,100.537,4,158093
+Townes Van Zandt,No Place to Fall,Be Here to Love Me,2005,0.513,0.0297,0.336,-11.414,0.0993,0.273,0.574,8.12e-5,E major,121.383,3,213506
+Townes Van Zandt,My Starter Won't Start,Be Here to Love Me,2005,0.684,0.0888,0.266,-9.382,0.107,0.199,0.7,7.72e-5,E major,65.663,4,207546
+Townes Van Zandt,Wild Crazy Things,Be Here to Love Me,2005,0.544,0.661,0.521,-18.111,0.113,0.645,0.982,0.578,D major,148.222,3,29213
+Townes Van Zandt,Rex's Blues,Be Here to Love Me,2005,0.594,0.0572,0.265,-13.572,0.875,0.678,0.864,2.99e-6,E major,146.974,4,182546
+Townes Van Zandt,Black Crow Blues,Be Here to Love Me,2005,0.532,0.0399,0.213,-14.649,0.11,0.141,0.986,0.0217,F# major,121.76,4,176013
+Townes Van Zandt,Don't Take It Too Bad,Be Here to Love Me,2005,0.622,0.0342,0.188,-12.706,0.707,0.57,0.847,1.04e-6,C major,118.053,3,177213
+Townes Van Zandt,When She Don't Need Me,Be Here to Love Me,2005,0.45,0.0282,0.247,-15.218,0.12,0.332,0.923,2.49e-4,D major,150.338,4,137240
+Townes Van Zandt,Snake Song,Be Here to Love Me,2005,0.629,0.0287,0.249,-13.589,0.14,0.416,0.294,1.25e-5,A minor,92.338,4,156680
+Townes Van Zandt,Mr. Mudd and Mr. Gold,Be Here to Love Me,2005,0.589,0.145,0.338,-11.213,0.724,0.43,0.847,0,B minor,105.033,4,171920
+Townes Van Zandt,Flyin' Shoes,Be Here to Love Me,2005,0.481,0.033,0.235,-12.751,0.0985,0.239,0.631,2.36e-5,A minor,135.252,4,268480
+Townes Van Zandt,Delta Momma Blues,Be Here to Love Me,2005,0.612,0.032,0.277,-13.731,0.102,0.716,0.803,4.57e-4,E major,124.488,4,240240
+Townes Van Zandt,Marie,Be Here to Love Me,2005,0.667,0.0597,0.159,-14.253,0.857,0.146,0.918,2.14e-4,B major,120.861,4,338520
+Townes Van Zandt,To Live's to Fly,Be Here to Love Me,2005,0.62,0.0595,0.284,-11.188,0.67,0.381,0.847,0,D major,77.548,4,203946
+Townes Van Zandt,Brand New Companion,Be Here to Love Me,2005,0.571,0.0338,0.205,-16.507,0.146,0.425,0.85,0.444,E major,73.288,3,285480
+Townes Van Zandt,"High, Low and in Between",Be Here to Love Me,2005,0.642,0.0303,0.194,-16.657,0.105,0.316,0.947,0.00339,D major,85.024,4,196133
+Townes Van Zandt,St. John and the Gambler,Be Here to Love Me,2005,0.233,0.0331,0.261,-12.657,0.112,0.36,0.812,0,C# minor,77.161,4,186360
+Townes Van Zandt,I Just Had to Fall,Be Here to Love Me,2005,0.579,0.557,0.426,-18.066,0.109,0.881,0.991,0.681,F major,115.89,5,25746
+Townes Van Zandt,Black Widow Blues,In The Beginning,2003,0.513,0.0668,0.843,-6.334,0.0528,0.663,0.62,0,G# minor,108.616,4,145026
+Townes Van Zandt,Maryetta's Song,In The Beginning,2003,0.539,0.0351,0.211,-13.992,0.115,0.19,0.91,4.47e-4,C major,94.268,4,335866
+Townes Van Zandt,Hunger Child Blues,In The Beginning,2003,0.528,0.0411,0.79,-6.834,0.0948,0.512,0.00727,1.22e-4,F# minor,101.914,4,195173
+Townes Van Zandt,Gypsy Friday,In The Beginning,2003,0.599,0.0304,0.354,-9.844,0.111,0.586,0.881,1.85e-6,D# major,93.221,4,173013
+Townes Van Zandt,Waitin' for the Day,In The Beginning,2003,0.352,0.0366,0.306,-10.641,0.104,0.407,0.927,0,D# major,198.442,4,256160
+Townes Van Zandt,Black Jack Mama,In The Beginning,2003,0.698,0.0368,0.659,-6.509,0.0932,0.803,0.862,4.3e-4,D minor,97.228,4,195733
+Townes Van Zandt,When Your Dream Lovers Die,In The Beginning,2003,0.571,0.0341,0.226,-10.679,0.194,0.613,0.968,0,E major,120.737,3,132813
+Townes Van Zandt,Colorado Bound,In The Beginning,2003,0.538,0.0333,0.263,-11.149,0.0873,0.602,0.928,5.46e-4,C major,86.325,4,171746
+Townes Van Zandt,Big Country Blues,In The Beginning,2003,0.522,0.0307,0.4,-9.119,0.135,0.547,0.899,1.71e-6,E minor,87.317,4,210013
+Townes Van Zandt,Black Crow Blues,In The Beginning,2003,0.536,0.0287,0.376,-8.999,0.0983,0.372,0.872,0.0241,C minor,116.501,3,182626
+Townes Van Zandt,If I Needed You,Texas Rain: The Texas Hill Country Recordings,2001,0.466,0.0286,0.549,-13.679,0.121,0.482,0.439,0.0019,C major,93.962,4,209733
+Townes Van Zandt,Pancho & Lefty,Texas Rain: The Texas Hill Country Recordings,2001,0.587,0.0359,0.339,-15.355,0.154,0.532,0.835,2.98e-5,B minor,78.038,4,230133
+Townes Van Zandt,Waiting Around to Die,Texas Rain: The Texas Hill Country Recordings,2001,0.408,0.0471,0.363,-13.888,0.264,0.472,0.796,2.03e-5,C# minor,149.18,4,177466
+Townes Van Zandt,Blue Wind Blew,Texas Rain: The Texas Hill Country Recordings,2001,0.581,0.0638,0.55,-12.63,0.14,0.628,0.802,0,C major,137.975,4,242800
+Townes Van Zandt,Kathleen,Texas Rain: The Texas Hill Country Recordings,2001,0.555,0.0287,0.298,-15.56,0.103,0.43,0.855,0.00366,C minor,105.453,4,182293
+Townes Van Zandt,No Lonesome Tune,Texas Rain: The Texas Hill Country Recordings,2001,0.42,0.0454,0.432,-14.082,0.0837,0.325,0.456,0.00724,A major,75.387,4,208733
+Townes Van Zandt,Brother Flower,Texas Rain: The Texas Hill Country Recordings,2001,0.351,0.0304,0.283,-13.345,0.145,0.576,0.798,0,C major,73.974,4,176573
+Townes Van Zandt,Two Girls,Texas Rain: The Texas Hill Country Recordings,2001,0.414,0.0436,0.524,-11.275,0.108,0.375,0.708,0,D major,150.415,4,226266
+Townes Van Zandt,Marie,Texas Rain: The Texas Hill Country Recordings,2001,0.507,0.048,0.3,-16.435,0.0991,0.426,0.642,0.0585,B minor,75.348,4,299493
+Townes Van Zandt,Quicksilver Daydreams of Maria,Texas Rain: The Texas Hill Country Recordings,2001,0.323,0.0323,0.426,-12.454,0.115,0.495,0.455,8.41e-6,C major,149.59,3,266666
+Townes Van Zandt,Snowin' on Raton,Texas Rain: The Texas Hill Country Recordings,2001,0.499,0.032,0.466,-13.052,0.129,0.672,0.631,1.03e-5,E major,153.425,4,232706
+Townes Van Zandt,At My Window,Texas Rain: The Texas Hill Country Recordings,2001,0.498,0.0271,0.2,-16.113,0.133,0.355,0.761,4.67e-4,D major,101.134,4,258200
+Townes Van Zandt,If I Needed You (feat. Emmylou Harris),Texas Rain: The Texas Hill Country Recordings,2001,0.466,0.0281,0.548,-13.681,0.12,0.5,0.417,0.00187,C major,93.252,4,209733
+Townes Van Zandt,Pancho & Lefty (Freddy Fender; Rubin Ramos & The Texas Revolution; Doug Sahm; Augie Meyers),Texas Rain: The Texas Hill Country Recordings,2001,0.502,0.0401,0.338,-15.368,0.154,0.527,0.836,2.43e-5,B minor,155.854,4,230133
+Townes Van Zandt,Waiting Around to Die (feat. Calvin Russell),Texas Rain: The Texas Hill Country Recordings,2001,0.401,0.0467,0.364,-13.885,0.264,0.467,0.803,1.55e-5,F# minor,149.093,4,177466
+Townes Van Zandt,Blue Wind Blew (feat. Jerry Jeff) Walker,Texas Rain: The Texas Hill Country Recordings,2001,0.595,0.0571,0.55,-12.634,0.139,0.628,0.801,0,C major,137.654,4,242800
+Townes Van Zandt,Kathleen (feat. The Chromatics),Texas Rain: The Texas Hill Country Recordings,2001,0.555,0.0286,0.299,-15.556,0.103,0.444,0.854,0.00328,C minor,105.426,4,182293
+Townes Van Zandt,No Lonesome Tune (Willie Nelson),Texas Rain: The Texas Hill Country Recordings,2001,0.506,0.0401,0.431,-13.996,0.0837,0.331,0.456,0.00705,A major,75.312,4,208733
+Townes Van Zandt,Brother Flower (feat. Kimmie Rhodes),Texas Rain: The Texas Hill Country Recordings,2001,0.437,0.0291,0.283,-13.344,0.144,0.61,0.8,0,C major,75.44,4,176573
+Townes Van Zandt,Two Girls (feat. Doug Sahm),Texas Rain: The Texas Hill Country Recordings,2001,0.415,0.0445,0.524,-11.276,0.132,0.356,0.713,0,D major,149.794,4,226266
+Townes Van Zandt,Marie (feat. Willie Nelson),Texas Rain: The Texas Hill Country Recordings,2001,0.512,0.0481,0.299,-16.438,0.0991,0.429,0.643,0.0591,B minor,75.382,4,299493
+Townes Van Zandt,Quicksilver Daydreams of Maria (feat. Freddy Fender; Rubin Ramos & The Texas Revolution; Doug Sahm; Augie Meyers),Texas Rain: The Texas Hill Country Recordings,2001,0.318,0.0329,0.427,-12.452,0.115,0.489,0.461,7.66e-6,C major,150.087,3,266666
+Townes Van Zandt,Snowin' on Raton (feat. James McMurtry),Texas Rain: The Texas Hill Country Recordings,2001,0.498,0.0319,0.467,-13.051,0.129,0.703,0.64,1.04e-5,E major,153.416,4,232706
+Townes Van Zandt,At My Window (feat. Kathy Mattea),Texas Rain: The Texas Hill Country Recordings,2001,0.507,0.0269,0.2,-16.113,0.133,0.355,0.762,4.37e-4,D major,100.781,4,258200
+Townes Van Zandt,Dollar Bill Blues,A Far Cry from Dead,1999,0.551,0.0295,0.505,-12.641,0.107,0.43,0.112,0.00978,B minor,112.912,4,181800
+Townes Van Zandt,To Live's to Fly,A Far Cry from Dead,1999,0.46,0.0272,0.428,-13.351,0.199,0.633,0.324,4.46e-4,D major,71.079,4,219960
+Townes Van Zandt,Rex's Blues,A Far Cry from Dead,1999,0.436,0.0316,0.337,-13.563,0.207,0.603,0.865,1.59e-5,D major,140.223,4,161640
+Townes Van Zandt,Sanitarium Blues,A Far Cry from Dead,1999,0.681,0.026,0.551,-10.428,0.299,0.652,0.0431,0.325,C major,130.698,4,237600
+Townes Van Zandt,Ain't Leavin' Your Love,A Far Cry from Dead,1999,0.566,0.0297,0.535,-12.125,0.101,0.757,0.473,3.5e-4,G major,90.532,4,174240
+Townes Van Zandt,Greensboro Woman,A Far Cry from Dead,1999,0.589,0.03,0.4,-13.143,0.0835,0.806,0.732,1.91e-4,D major,90.284,4,157320
+Townes Van Zandt,Snake Mountain Blues,A Far Cry from Dead,1999,0.541,0.0316,0.605,-11.463,0.233,0.625,0.418,1.82e-5,E minor,98.313,3,211320
+Townes Van Zandt,Pancho & Lefty,A Far Cry from Dead,1999,0.547,0.0444,0.405,-12.952,0.204,0.456,0.85,0.0123,B minor,154.481,4,231480
+Townes Van Zandt,For the Sake of the Song,A Far Cry from Dead,1999,0.601,0.036,0.359,-13.335,0.259,0.437,0.836,2.25e-5,A major,113.957,4,266760
+Townes Van Zandt,Waitin' Round to Die,A Far Cry from Dead,1999,0.508,0.0384,0.232,-17.22,0.119,0.299,0.849,8.76e-5,C# minor,74.006,4,184680
+Townes Van Zandt,Many a Fine Lady,A Far Cry from Dead,1999,0.494,0.0309,0.294,-13.082,0.123,0.361,0.751,1.2e-5,E major,120.755,3,239760
+Townes Van Zandt,Tower Song,A Far Cry from Dead,1999,0.445,0.0307,0.3,-11.567,0.127,0.299,0.917,0,E major,100.634,4,182160
+Townes Van Zandt,Squash,A Far Cry from Dead,1999,0.437,0.0577,0.476,-13.641,0.337,0.624,0.682,4.91e-4,E major,167.423,4,149760
+Townes Van Zandt,A Song For,No Deeper Blue,1994,0.419,0.0386,0.323,-13.325,0.0982,0.244,0.424,3.29e-6,B minor,146.665,3,182853
+Townes Van Zandt,Blaze's Blue,No Deeper Blue,1994,0.608,0.0331,0.517,-11.386,0.158,0.623,0.504,4.8e-5,A major,96.923,4,203506
+Townes Van Zandt,The Hole,No Deeper Blue,1994,0.695,0.135,0.518,-14.077,0.103,0.735,0.189,1.34e-4,D major,84.342,4,252253
+Townes Van Zandt,Marie,No Deeper Blue,1994,0.512,0.0473,0.411,-13.295,0.049,0.524,0.225,6.54e-6,B minor,79.254,4,288240
+Townes Van Zandt,Goin' Down to Memphis,No Deeper Blue,1994,0.737,0.0313,0.551,-10.868,0.17,0.808,0.343,0.00128,A major,108.324,4,251680
+Townes Van Zandt,Hey Willy Boy,No Deeper Blue,1994,0.586,0.0446,0.276,-13.214,0.0518,0.565,0.723,3.47e-6,C major,74.418,4,139613
+Townes Van Zandt,Niles River Blues,No Deeper Blue,1994,0.488,0.0347,0.442,-10.349,0.272,0.604,0.748,0,B major,145.136,3,186520
+Townes Van Zandt,"Billy, Boney and Ma",No Deeper Blue,1994,0.344,0.101,0.394,-12.353,0.0869,0.477,0.568,0,F minor,73.273,4,316013
+Townes Van Zandt,Katie Belle Blue,No Deeper Blue,1994,0.597,0.0299,0.337,-14.041,0.0812,0.38,0.922,0,A major,112.295,3,199240
+Townes Van Zandt,If I Was Washington,No Deeper Blue,1994,0.617,0.0333,0.611,-11.878,0.1,0.726,0.742,2.73e-5,B major,87.095,4,151213
+Townes Van Zandt,Lover's Lullaby,No Deeper Blue,1994,0.534,0.0285,0.332,-11.89,0.344,0.323,0.472,7.22e-6,C major,67.029,4,252720
+Townes Van Zandt,Cowboy Junkies Lament,No Deeper Blue,1994,0.429,0.0314,0.601,-9.542,0.323,0.662,0.581,5.5e-4,E major,73.15,4,199480
+Townes Van Zandt,Bw Railroad Blues,No Deeper Blue,1994,0.573,0.0293,0.628,-11.556,0.0978,0.77,0.466,2.21e-4,B major,99.886,4,234613
+Townes Van Zandt,Gone Too Long,No Deeper Blue,1994,0.636,0.058,0.548,-12.553,0.0844,0.789,0.453,5.2e-6,A major,90.669,4,172680
+Townes Van Zandt,IRA Hayes,Roadsongs,1994,0.532,0.0456,0.107,-20.215,0.306,0.61,0.906,2.84e-5,E major,144.024,4,225840
+Townes Van Zandt,Dead Flowers,Roadsongs,1994,0.554,0.0335,0.175,-16.763,0.107,0.42,0.479,0,C major,118.686,4,287293
+Townes Van Zandt,Automobile Blues,Roadsongs,1994,0.38,0.0385,0.155,-17.47,0.601,0.39,0.655,0.0179,D major,175.248,3,324066
+Townes Van Zandt,Coo Coo,Roadsongs,1994,0.556,0.0324,0.34,-15.458,0.0714,0.465,0.59,5.95e-4,F# minor,114.026,4,282240
+Townes Van Zandt,Fraulein,Roadsongs,1994,0.474,0.0319,0.154,-17.255,0.318,0.404,0.644,1.22e-5,D major,124.882,4,190200
+Townes Van Zandt,Hello Central,Roadsongs,1994,0.489,0.038,0.0866,-21.32,0.0883,0.419,0.818,0.00415,D major,176.581,3,250266
+Townes Van Zandt,Indian Cowboy,Roadsongs,1994,0.534,0.0414,0.142,-19.239,0.319,0.422,0.838,1.19e-6,D major,134.754,3,162533
+Townes Van Zandt,Racing in the Streets,Roadsongs,1994,0.676,0.0389,0.172,-17.947,0.116,0.379,0.841,0,D major,123.166,3,182666
+Townes Van Zandt,My Starter Won't Start,Roadsongs,1994,0.429,0.034,0.193,-16.521,0.313,0.301,0.503,0.00386,B minor,123.655,4,201026
+Townes Van Zandt,Texas River Song,Roadsongs,1994,0.492,0.0353,0.133,-16.217,0.254,0.464,0.891,0,D major,108.125,3,151600
+Townes Van Zandt,Wabash Cannonball,Roadsongs,1994,0.514,0.0436,0.316,-15.807,0.264,0.649,0.67,5.92e-4,D major,119.734,4,211306
+Townes Van Zandt,Short-Haired Woman Blues,Roadsongs,1994,0.477,0.0381,0.0671,-20.035,0.135,0.503,0.869,0.0299,D minor,200.537,3,218466
+Townes Van Zandt,Man Gave Names to All the Animals,Roadsongs,1994,0.67,0.0355,0.308,-18.854,0.143,0.826,0.0397,1.26e-4,G minor,92.471,4,266533
+Townes Van Zandt,Little Willie the Gambler,Roadsongs,1994,0.554,0.05,0.143,-17.189,0.265,0.583,0.798,0,C major,116.973,3,225333
+Townes Van Zandt,Cocaine Blues,Roadsongs,1994,0.485,0.0331,0.233,-19.645,0.818,0.597,0.745,0.0557,E major,131.463,4,243200
+Townes Van Zandt,Pancho and Lefty,Rear View Mirror,1993,0.257,0.0305,0.453,-8.063,0.564,0.397,0.44,5.05e-6,D major,148.848,4,241080
+Townes Van Zandt,If I Needed You,Rear View Mirror,1993,0.191,0.0329,0.415,-10.503,0.114,0.605,0.507,2.77e-4,C major,177.25,4,162106
+Townes Van Zandt,For the Sake of the Song,Rear View Mirror,1993,0.563,0.0291,0.471,-9.027,0.163,0.292,0.631,1.49e-6,B major,114.872,4,278826
+Townes Van Zandt,Our Mother the Mountain,Rear View Mirror,1993,0.213,0.0327,0.437,-9.147,0.23,0.56,0.711,9.56e-6,D minor,168.597,3,178880
+Townes Van Zandt,To Live Is to Fly,Rear View Mirror,1993,0.3,0.0294,0.492,-8.084,0.197,0.477,0.592,6.81e-5,D major,138.402,4,248946
+Townes Van Zandt,Lungs,Rear View Mirror,1993,0.348,0.0286,0.527,-7.415,0.0902,0.651,0.297,3.21e-5,D major,106.588,4,157493
+Townes Van Zandt,Flyin' Shoes,Rear View Mirror,1993,0.429,0.0291,0.452,-8.409,0.53,0.46,0.34,5.61e-4,A minor,72.6,4,211573
+Townes Van Zandt,No Place to Fall,Rear View Mirror,1993,0.334,0.031,0.423,-9.385,0.122,0.416,0.767,0.00129,E major,117.465,4,191400
+Townes Van Zandt,Dollar Bill Blues,Rear View Mirror,1993,0.375,0.0322,0.545,-7.898,0.328,0.768,0.679,1.25e-6,E minor,124.482,4,143653
+Townes Van Zandt,White Freight Liner Blues,Rear View Mirror,1993,0.474,0.0316,0.525,-9.163,0.19,0.784,0.394,9.14e-4,C major,120.698,4,257666
+Townes Van Zandt,Tecumseh Valley,Rear View Mirror,1993,0.354,0.032,0.367,-11.376,0.181,0.44,0.493,7.05e-4,C major,78.248,3,281880
+Townes Van Zandt,Don't You Take It Too Bad,Rear View Mirror,1993,0.352,0.032,0.466,-8.4,0.111,0.489,0.562,0.00212,C major,120.036,3,215360
+Townes Van Zandt,Tower Song,Rear View Mirror,1993,0.408,0.0247,0.467,-8.98,0.329,0.388,0.69,4.63e-5,E major,97.585,4,186013
+Townes Van Zandt,Rex's Blues,Rear View Mirror,1993,0.373,0.029,0.525,-8.906,0.656,0.521,0.804,1.95e-6,E major,159.354,4,142573
+Townes Van Zandt,Brother Flower,Rear View Mirror,1993,0.357,0.0302,0.475,-7.804,0.195,0.646,0.57,1.82e-4,D major,169.387,4,164386
+Townes Van Zandt,Waitin' 'Round to Die,Rear View Mirror,1993,0.406,0.0302,0.478,-8.259,0.0465,0.486,0.439,8.51e-5,F# major,91.694,4,192466
+Townes Van Zandt,Colorado Girl,Rear View Mirror,1993,0.328,0.0304,0.459,-8.971,0.151,0.509,0.571,0.0121,E major,86.179,4,207200
+Townes Van Zandt,Snowin' On Raton,At My Window,1987,0.506,0.0347,0.145,-20.627,0.0971,0.492,0.611,2.09e-5,E major,77.744,4,232106
+Townes Van Zandt,Blue Wind Blew,At My Window,1987,0.676,0.0353,0.22,-19.274,0.164,0.656,0.581,1.19e-6,C major,126.699,4,159493
+Townes Van Zandt,At My Window,At My Window,1987,0.582,0.0336,0.124,-19.94,0.306,0.395,0.536,1.92e-4,D major,114.955,4,249466
+Townes Van Zandt,For The Sake Of The Song,At My Window,1987,0.633,0.0374,0.12,-22.503,0.101,0.36,0.881,0.00153,B major,115.703,4,264706
+Townes Van Zandt,Ain't Leavin' Your Love,At My Window,1987,0.664,0.0362,0.348,-18.401,0.211,0.754,0.412,0,G major,91.102,4,153200
+Townes Van Zandt,Buckskin Stallion Blues,At My Window,1987,0.683,0.0351,0.158,-21.535,0.0912,0.409,0.748,1.57e-6,B major,117.144,4,181026
+Townes Van Zandt,Little Sundance #2,At My Window,1987,0.765,0.0384,0.208,-21.155,0.101,0.418,0.637,1.08e-5,A major,116.712,4,177706
+Townes Van Zandt,Still Lookin' For You,At My Window,1987,0.655,0.0418,0.216,-19.101,0.448,0.735,0.435,1.34e-5,C major,143.012,4,157333
+Townes Van Zandt,"Gone, Gone Blues",At My Window,1987,0.713,0.0399,0.213,-20.267,0.111,0.843,0.0976,3.08e-5,G major,96.205,4,163200
+Townes Van Zandt,The Catfish Song,At My Window,1987,0.578,0.0311,0.0506,-21.492,0.126,0.296,0.98,4.34e-5,G major,93.86,3,264866
+Townes Van Zandt,Loretta,Flyin' Shoes,1978,0.521,0.0303,0.212,-16.299,0.0794,0.613,0.138,0,G major,79.773,4,235133
+Townes Van Zandt,No Place To Fall,Flyin' Shoes,1978,0.532,0.0313,0.254,-15.471,0.109,0.293,0.588,8.61e-5,E major,121.597,3,215320
+Townes Van Zandt,Flyin' Shoes,Flyin' Shoes,1978,0.481,0.0358,0.158,-17.138,0.121,0.231,0.557,1.81e-5,A minor,135.016,4,269466
+Townes Van Zandt,Who Do You Love,Flyin' Shoes,1978,0.728,0.0276,0.535,-13.571,0.0631,0.937,0.128,3.51e-5,F major,98.01,4,245853
+Townes Van Zandt,When She Don't Need Me,Flyin' Shoes,1978,0.549,0.033,0.221,-14.647,0.0631,0.374,0.482,0,D major,70.3,4,197586
+Townes Van Zandt,Dollar Bill Blues,Flyin' Shoes,1978,0.611,0.0298,0.368,-14.054,0.0611,0.527,0.14,1.64e-5,G minor,109.919,4,185253
+Townes Van Zandt,Rex's Blues,Flyin' Shoes,1978,0.561,0.0351,0.203,-17.12,0.348,0.541,0.366,4.72e-4,D major,73.386,4,154746
+Townes Van Zandt,Pueblo Waltz,Flyin' Shoes,1978,0.618,0.0349,0.173,-17.696,0.0772,0.527,0.605,3.83e-6,C major,125.751,3,186626
+Townes Van Zandt,Brother Flower,Flyin' Shoes,1978,0.588,0.0325,0.252,-16.784,0.389,0.734,0.465,1.51e-4,D major,78.323,4,179266
+Townes Van Zandt,Snake Song,Flyin' Shoes,1978,0.626,0.0302,0.154,-18.426,0.157,0.443,0.266,7.78e-6,A minor,92.425,4,155413
+Townes Van Zandt,Loretta,Flyin' Shoes,1978,0.519,0.0302,0.209,-16.375,0.0764,0.602,0.149,1.05e-6,G major,79.892,4,234400
+Townes Van Zandt,No Place To Fall,Flyin' Shoes,1978,0.511,0.0294,0.338,-11.411,0.101,0.281,0.57,8.45e-5,E major,121.37,3,213506
+Townes Van Zandt,Flyin' Shoes,Flyin' Shoes,1978,0.477,0.0332,0.237,-12.802,0.0966,0.225,0.651,2.89e-5,A minor,137.465,4,268480
+Townes Van Zandt,Who Do You Love,Flyin' Shoes,1978,0.736,0.0274,0.523,-13.531,0.0645,0.949,0.138,1.67e-5,F major,98.001,4,245853
+Townes Van Zandt,When She Don't Need Me,Flyin' Shoes,1978,0.541,0.0325,0.217,-14.644,0.0647,0.403,0.493,0,D major,140.086,4,197586
+Townes Van Zandt,Dollar Bill Blues,Flyin' Shoes,1978,0.619,0.0288,0.371,-14.069,0.0607,0.533,0.153,1.58e-5,G minor,109.873,4,185253
+Townes Van Zandt,Rex's Blues,Flyin' Shoes,1978,0.599,0.0524,0.258,-13.72,0.873,0.666,0.867,2.79e-6,E major,146.836,4,182546
+Townes Van Zandt,Pueblo Waltz,Flyin' Shoes,1978,0.622,0.0346,0.172,-17.688,0.0844,0.533,0.592,0,C major,125.733,3,186626
+Townes Van Zandt,Brother Flower,Flyin' Shoes,1978,0.527,0.034,0.254,-16.745,0.385,0.718,0.418,9.01e-5,D major,156.911,4,179266
+Townes Van Zandt,Snake Song,Flyin' Shoes,1978,0.632,0.0291,0.239,-13.556,0.14,0.435,0.279,2.95e-5,A minor,92.406,4,156680
+Townes Van Zandt,Loretta,Flyin' Shoes,1978,0.522,0.0297,0.212,-16.275,0.0764,0.601,0.155,1.55e-6,G major,79.916,4,234400
+Townes Van Zandt,No Place to Fall,Flyin' Shoes,1978,0.514,0.0315,0.255,-15.484,0.107,0.281,0.588,3.85e-5,E major,121.403,3,215320
+Townes Van Zandt,Flyin' Shoes,Flyin' Shoes,1978,0.479,0.0358,0.157,-17.198,0.108,0.251,0.585,1.7e-5,A minor,135.17,4,269466
+Townes Van Zandt,Who Do You Love,Flyin' Shoes,1978,0.736,0.027,0.526,-13.542,0.0648,0.95,0.139,1.49e-5,F major,98.004,4,245853
+Townes Van Zandt,When She Don't Need Me,Flyin' Shoes,1978,0.54,0.0328,0.214,-14.644,0.0638,0.414,0.471,0,D major,140.256,4,197586
+Townes Van Zandt,Dollar Bill Blues,Flyin' Shoes,1978,0.618,0.0285,0.374,-14.097,0.0608,0.545,0.144,3.46e-5,G minor,109.883,4,185253
+Townes Van Zandt,Rex's Blues,Flyin' Shoes,1978,0.585,0.0344,0.205,-17.204,0.36,0.555,0.407,9.6e-4,D major,73.36,4,154746
+Townes Van Zandt,Pueblo Waltz,Flyin' Shoes,1978,0.621,0.035,0.178,-17.686,0.0847,0.512,0.604,0,C major,125.737,3,186626
+Townes Van Zandt,Brother Flower,Flyin' Shoes,1978,0.532,0.034,0.256,-16.712,0.385,0.745,0.434,1.42e-4,D major,157.015,4,179266
+Townes Van Zandt,Snake Song,Flyin' Shoes,1978,0.622,0.0303,0.163,-18.388,0.129,0.436,0.262,7.19e-6,A minor,92.358,4,153253
+Townes Van Zandt,"Announcement - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.603,0.904,0.467,-16.84,0.943,0.683,0.928,3.85e-6,E minor,97.996,1,45160
+Townes Van Zandt,"Pancho and Lefty - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.528,0.145,0.183,-19.559,0.661,0.618,0.874,1.85e-6,C# major,68.479,4,247600
+Townes Van Zandt,"Mr. Mudd and Mr. Gold - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.549,0.452,0.231,-18.565,0.802,0.566,0.902,0,B minor,103.074,4,220666
+Townes Van Zandt,"Don't Take It Too Bad - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.599,0.0589,0.185,-19.341,0.849,0.629,0.858,3.99e-6,C major,117.981,5,177840
+Townes Van Zandt,"Two Girls - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.629,0.438,0.298,-18.591,0.924,0.585,0.939,1.5e-6,D# major,71.351,4,231906
+Townes Van Zandt,"Fraternity Blues - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.514,0.473,0.272,-20.964,0.675,0.793,0.944,7.44e-4,D# major,108.662,4,187333
+Townes Van Zandt,"If I Needed You - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.537,0.0497,0.153,-22.787,0.846,0.592,0.896,9.39e-5,A# major,79.299,4,198800
+Townes Van Zandt,"Brand New Companion - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.545,0.0317,0.101,-21.909,0.529,0.217,0.868,0.00511,B minor,105.118,3,260466
+Townes Van Zandt,"White Freight Liner Blues - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.606,0.0612,0.304,-15.307,0.864,0.856,0.865,4.36e-4,C major,111.5,4,206426
+Townes Van Zandt,"To Live Is to Fly - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.619,0.334,0.271,-16.832,0.683,0.511,0.856,1.06e-6,D major,78.485,4,200360
+Townes Van Zandt,"She Came and She Touched Me - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.578,0.0728,0.246,-17.512,0.703,0.446,0.826,0,E major,134.593,3,250240
+Townes Van Zandt,"Talking Thunderbird Blues - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.58,0.104,0.324,-18.886,0.934,0.838,0.896,0.00448,E major,105.803,4,153160
+Townes Van Zandt,"Rex's Blues - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.588,0.121,0.224,-19.325,0.762,0.702,0.855,5.27e-6,E major,147.056,4,185400
+Townes Van Zandt,"Nine Pound Hammer - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.591,0.033,0.184,-20.347,0.684,0.608,0.925,0.0474,E major,138.08,4,186106
+Townes Van Zandt,"For the Sake of the Song - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.57,0.0517,0.133,-20.354,0.721,0.342,0.865,0,B major,109.612,4,288226
+Townes Van Zandt,"Chauffeur's Blues - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.435,0.0572,0.174,-21.553,0.666,0.324,0.901,0.101,B minor,79.435,4,273200
+Townes Van Zandt,"No Place to Fall - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.573,0.0907,0.258,-21.403,0.662,0.666,0.865,9.27e-4,E major,124.585,3,188866
+Townes Van Zandt,"Loretta - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.426,0.141,0.399,-17.407,0.686,0.432,0.896,0,C major,154.4,4,146573
+Townes Van Zandt,"Kathleen - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.327,0.121,0.212,-21.302,0.689,0.583,0.904,1.74e-4,F# major,204.999,4,174760
+Townes Van Zandt,"Why She's Acting This Way - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.523,0.0335,0.163,-20.974,0.657,0.328,0.887,0.00165,E major,78.001,4,343106
+Townes Van Zandt,"Cocaine Blues - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.501,0.0442,0.159,-20.131,0.627,0.331,0.932,0.00369,E major,112.985,4,201000
+Townes Van Zandt,"Who Do You Love - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.71,0.209,0.439,-15.903,0.27,0.375,0.821,0.00483,F# major,85.808,4,224733
+Townes Van Zandt,"Tower Song - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.518,0.052,0.216,-19.382,0.798,0.519,0.859,5.88e-6,E major,93.74,4,227266
+Townes Van Zandt,"Waitin' Around to Die - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.442,0.104,0.351,-16.076,0.669,0.73,0.86,4.75e-6,G# minor,84.634,4,155400
+Townes Van Zandt,"Tecumseh Valley - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.462,0.0354,0.0441,-21.827,0.155,0.667,0.879,1.27e-4,C major,78.275,4,260653
+Townes Van Zandt,"Lungs - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.554,0.0441,0.36,-14.027,0.882,0.557,0.795,1.06e-5,D major,96.503,4,154426
+Townes Van Zandt,"Only Him or Me - Live at The Old Quarter, Houston, Texas","Live at the Old Quarter, Houston, Texas",1977,0.567,0.0532,0.105,-20.498,0.701,0.648,0.916,1.05e-6,E major,76.811,4,164945
+Townes Van Zandt,Announcement - Live,"Live at the Old Quarter, Houston, Texas",1977,0.627,0.896,0.45,-16.872,0.951,0.68,0.942,0,D# minor,97.945,3,44613
+Townes Van Zandt,Pancho & Lefty - Live,"Live at the Old Quarter, Houston, Texas",1977,0.493,0.129,0.189,-19.496,0.658,0.626,0.875,2.24e-6,C# major,142.324,4,248346
+Townes Van Zandt,Mr. Mudd & Mr. Gold - Live,"Live at the Old Quarter, Houston, Texas",1977,0.548,0.474,0.239,-18.529,0.785,0.582,0.893,0,B minor,102.466,4,220840
+Townes Van Zandt,Don't You Take It Too Bad - Live,"Live at the Old Quarter, Houston, Texas",1977,0.607,0.0546,0.174,-19.433,0.871,0.571,0.85,2.46e-6,C major,118.201,5,177680
+Townes Van Zandt,Two Girls - Live,"Live at the Old Quarter, Houston, Texas",1977,0.605,0.489,0.298,-18.597,0.921,0.557,0.941,3.45e-6,D# major,71.305,4,231920
+Townes Van Zandt,Fraternity Blues - Live,"Live at the Old Quarter, Houston, Texas",1977,0.527,0.128,0.171,-20.902,0.68,0.705,0.948,5.07e-4,D# major,109.429,4,187906
+Townes Van Zandt,If I Needed You - Live,"Live at the Old Quarter, Houston, Texas",1977,0.445,0.0496,0.16,-22.793,0.857,0.576,0.893,7.62e-5,A# major,106.151,3,198813
+Townes Van Zandt,Brand New Companion - Live,"Live at the Old Quarter, Houston, Texas",1977,0.396,0.0366,0.0948,-21.849,0.48,0.238,0.87,0.00569,B minor,51.952,3,260186
+Townes Van Zandt,White Freightliner Blues - Live,"Live at the Old Quarter, Houston, Texas",1977,0.605,0.0645,0.308,-15.564,0.911,0.835,0.866,4.07e-4,C major,112.039,4,206440
+Townes Van Zandt,To Live Is to Fly - Live,"Live at the Old Quarter, Houston, Texas",1977,0.614,0.315,0.274,-16.841,0.69,0.519,0.857,0,D major,77.931,4,200813
+Townes Van Zandt,She Came and She Touched Me - Live,"Live at the Old Quarter, Houston, Texas",1977,0.585,0.0748,0.251,-16.62,0.693,0.371,0.832,0,E major,134.528,3,249520
+Townes Van Zandt,Talking Thunderbird Blues - Live,"Live at the Old Quarter, Houston, Texas",1977,0.569,0.0945,0.315,-19.148,0.926,0.833,0.886,0.00921,E major,105.75,4,153173
+Townes Van Zandt,Rex's Blues - Live,"Live at the Old Quarter, Houston, Texas",1977,0.569,0.0835,0.224,-19.135,0.784,0.741,0.847,4.21e-6,E major,147.406,4,185280
+Townes Van Zandt,Nine Pound Hammer - Live,"Live at the Old Quarter, Houston, Texas",1977,0.581,0.0324,0.185,-20.281,0.688,0.551,0.911,0.0605,E major,137.657,4,186120
+Townes Van Zandt,For the Sake of the Song - Live,"Live at the Old Quarter, Houston, Texas",1977,0.552,0.0517,0.132,-20.392,0.722,0.34,0.872,0,B major,108.974,4,288840
+Townes Van Zandt,Chauffeur's Blues - Live,"Live at the Old Quarter, Houston, Texas",1977,0.435,0.0501,0.184,-21.561,0.688,0.34,0.881,0.165,B minor,82.275,4,273213
+Townes Van Zandt,No Place to Fall - Live,"Live at the Old Quarter, Houston, Texas",1977,0.582,0.0819,0.258,-21.399,0.663,0.678,0.86,5.46e-4,E major,124.452,3,188986
+Townes Van Zandt,Loretta - Live,"Live at the Old Quarter, Houston, Texas",1977,0.538,0.123,0.375,-17.396,0.691,0.401,0.904,0,C major,76.522,4,146546
+Townes Van Zandt,Kathleen - Live,"Live at the Old Quarter, Houston, Texas",1977,0.325,0.202,0.212,-21.371,0.687,0.518,0.911,2.31e-4,F# major,205.772,4,174813
+Townes Van Zandt,Why She's Acting This Way - Live,"Live at the Old Quarter, Houston, Texas",1977,0.526,0.0329,0.167,-20.955,0.66,0.317,0.887,0.00216,E major,79.11,4,342973
+Townes Van Zandt,Cocaine Blues - Live,"Live at the Old Quarter, Houston, Texas",1977,0.5,0.0422,0.144,-20.461,0.632,0.318,0.932,0.00207,F# minor,112.873,4,201013
+Townes Van Zandt,Who Do You Love - Live,"Live at the Old Quarter, Houston, Texas",1977,0.702,0.193,0.44,-15.87,0.272,0.365,0.814,0.00625,F# major,85.769,4,224720
+Townes Van Zandt,Tower Song - Live,"Live at the Old Quarter, Houston, Texas",1977,0.524,0.0537,0.222,-19.418,0.792,0.519,0.856,9.68e-6,E major,93.616,4,227573
+Townes Van Zandt,Waiting 'Round to Die - Live,"Live at the Old Quarter, Houston, Texas",1977,0.463,0.105,0.355,-16.15,0.673,0.734,0.857,6.03e-6,G# minor,85.447,4,155253
+Townes Van Zandt,Tecumseh Valley - Live,"Live at the Old Quarter, Houston, Texas",1977,0.482,0.0592,0.151,-20.296,0.696,0.662,0.89,2.63e-4,C major,77.501,4,270040
+Townes Van Zandt,Lungs - Live,"Live at the Old Quarter, Houston, Texas",1977,0.544,0.0411,0.34,-13.947,0.734,0.556,0.785,3.89e-6,D major,97.005,4,154186
+Townes Van Zandt,Only Him or Me - Live,"Live at the Old Quarter, Houston, Texas",1977,0.462,0.0416,0.115,-19.618,0.706,0.558,0.916,6.78e-6,E major,153.357,4,162813
+Townes Van Zandt,No Lonesome Tune,The Late Great Townes Van Zandt,1972,0.615,0.0336,0.313,-16.408,0.098,0.452,0.788,0.137,A major,141.017,4,261106
+Townes Van Zandt,Sad Cinderella,The Late Great Townes Van Zandt,1972,0.603,0.0291,0.181,-16.867,0.0881,0.3,0.865,3.85e-5,C major,97.153,3,255400
+Townes Van Zandt,German Mustard,The Late Great Townes Van Zandt,1972,0.643,0.0829,0.266,-16.235,0.117,0.404,0.784,8.42e-5,C major,109.587,4,175493
+Townes Van Zandt,Don't Let The Sunshine Fool Ya',The Late Great Townes Van Zandt,1972,0.66,0.0505,0.317,-13.717,0.222,0.648,0.922,3.06e-4,E major,131.651,4,145600
+Townes Van Zandt,Honky Tonkin',The Late Great Townes Van Zandt,1972,0.723,0.0314,0.308,-14.496,0.0474,0.723,0.764,6.89e-4,F major,132.572,4,224000
+Townes Van Zandt,Snow Don't Fall,The Late Great Townes Van Zandt,1972,0.333,0.032,0.0859,-18.544,0.108,0.146,0.866,3.54e-4,F major,101.998,4,147000
+Townes Van Zandt,Fraulein,The Late Great Townes Van Zandt,1972,0.479,0.0319,0.207,-15.957,0.114,0.521,0.617,7.12e-5,D major,127.789,4,162933
+Townes Van Zandt,Poncho & Lefty,The Late Great Townes Van Zandt,1972,0.636,0.0306,0.277,-14.185,0.234,0.685,0.784,0,C# major,133.363,4,220573
+Townes Van Zandt,If I Needed You,The Late Great Townes Van Zandt,1972,0.622,0.0329,0.315,-16.641,0.0849,0.676,0.558,0.0303,B major,75.703,4,224200
+Townes Van Zandt,Silver Ships Of Andilar,The Late Great Townes Van Zandt,1972,0.4,0.0354,0.228,-14.243,0.102,0.296,0.826,0,B major,158.678,3,307893
+Townes Van Zandt,Heavenly Houseboat Blues,The Late Great Townes Van Zandt,1972,0.549,0.032,0.0946,-16.815,0.106,0.426,0.855,1.25e-5,C# major,138.75,4,171266
+Townes Van Zandt,FFV,Delta Momma Blues,1971,0.396,0.0428,0.185,-19.237,0.1,0.458,0.894,0.151,G major,186.754,3,217706
+Townes Van Zandt,Delta Mama Blues,Delta Momma Blues,1971,0.635,0.0341,0.183,-18.924,0.107,0.725,0.818,9.99e-5,E major,124.312,4,241013
+Townes Van Zandt,Only Him Or Me,Delta Momma Blues,1971,0.516,0.038,0.0861,-22.922,0.153,0.502,0.913,0.0238,E major,142.568,4,152013
+Townes Van Zandt,"Turnstyled, Junkpiled",Delta Momma Blues,1971,0.57,0.042,0.224,-18.15,0.0917,0.502,0.84,0.00342,D major,126.195,4,206026
+Townes Van Zandt,Tower Song,Delta Momma Blues,1971,0.555,0.0313,0.0749,-22.314,0.107,0.211,0.932,0.00411,E major,78.887,4,250000
+Townes Van Zandt,Come Tomorrow,Delta Momma Blues,1971,0.512,0.031,0.108,-19.825,0.0952,0.307,0.893,0.00705,C major,106.305,4,179013
+Townes Van Zandt,Brand New Companion,Delta Momma Blues,1971,0.54,0.0349,0.134,-21.268,0.132,0.398,0.789,0.529,E major,73.44,3,286013
+Townes Van Zandt,Where I Lead Me,Delta Momma Blues,1971,0.512,0.0447,0.341,-15.441,0.0826,0.878,0.436,5.63e-5,A# minor,174.287,4,172013
+Townes Van Zandt,Rake,Delta Momma Blues,1971,0.442,0.0382,0.213,-17.417,0.0747,0.262,0.911,0,C major,132.251,3,247013
+Townes Van Zandt,Nothin',Delta Momma Blues,1971,0.512,0.0332,0.0876,-21.479,0.139,0.239,0.913,0.00191,G# major,138.287,4,169026
+Townes Van Zandt,F.F.V.,Delta Momma Blues,1971,0.394,0.0417,0.181,-19.229,0.1,0.475,0.891,0.198,G major,184.365,3,217173
+Townes Van Zandt,Delta Momma Blues,Delta Momma Blues,1971,0.605,0.0361,0.186,-18.926,0.107,0.709,0.811,1.46e-4,E major,124.543,4,241013
+Townes Van Zandt,Only Him or Me,Delta Momma Blues,1971,0.497,0.0374,0.0882,-22.933,0.124,0.486,0.908,0.0327,E major,142.438,4,152013
+Townes Van Zandt,"Turnstyled, Junkpiled",Delta Momma Blues,1971,0.572,0.041,0.226,-18.159,0.091,0.449,0.831,0.00354,D major,126.575,4,206026
+Townes Van Zandt,Tower Song,Delta Momma Blues,1971,0.564,0.0316,0.0723,-22.284,0.107,0.227,0.935,0.00572,E major,79.164,4,250000
+Townes Van Zandt,Come Tomorrow,Delta Momma Blues,1971,0.479,0.0317,0.108,-19.811,0.0989,0.317,0.894,0.00637,C major,105.64,4,179013
+Townes Van Zandt,Brand New Companion,Delta Momma Blues,1971,0.566,0.0346,0.133,-21.227,0.129,0.405,0.779,0.627,E major,73.1,3,286013
+Townes Van Zandt,Where I Lead Me,Delta Momma Blues,1971,0.532,0.0433,0.342,-15.45,0.0889,0.877,0.424,4.01e-5,A# minor,173.34,4,172013
+Townes Van Zandt,Rake,Delta Momma Blues,1971,0.448,0.0395,0.207,-17.395,0.0786,0.253,0.918,0,C major,132.18,3,247013
+Townes Van Zandt,Nothin',Delta Momma Blues,1971,0.393,0.0346,0.0875,-21.427,0.118,0.213,0.915,0.00126,G# major,138.166,4,166866
+Townes Van Zandt,F.F.V.,Delta Momma Blues,1971,0.392,0.0446,0.185,-19.22,0.1,0.432,0.892,0.31,G major,185.704,3,217173
+Townes Van Zandt,Delta Mama Blues,Delta Momma Blues,1971,0.633,0.0314,0.278,-13.712,0.103,0.708,0.797,1.7e-4,E major,124.317,4,240240
+Townes Van Zandt,Only Him Or Me,Delta Momma Blues,1971,0.518,0.0368,0.0865,-22.926,0.124,0.494,0.911,0.0253,E major,142.577,4,152013
+Townes Van Zandt,"Turnstyled, Junkpiled",Delta Momma Blues,1971,0.565,0.0408,0.229,-18.135,0.0914,0.459,0.814,0.00342,D major,125.998,4,206026
+Townes Van Zandt,Tower Song,Delta Momma Blues,1971,0.567,0.0313,0.0693,-22.256,0.106,0.218,0.937,0.00455,E major,79.182,4,250000
+Townes Van Zandt,Come Tomorrow,Delta Momma Blues,1971,0.5,0.0316,0.103,-19.829,0.0852,0.293,0.893,0.005,C major,105.684,4,179013
+Townes Van Zandt,Brand New Companion,Delta Momma Blues,1971,0.404,0.0382,0.202,-16.432,0.143,0.398,0.843,0.346,E major,73.466,3,285480
+Townes Van Zandt,Where I Lead Me,Delta Momma Blues,1971,0.52,0.0427,0.43,-11.606,0.0854,0.89,0.46,7.17e-5,A# minor,174.258,4,170533
+Townes Van Zandt,Rake,Delta Momma Blues,1971,0.453,0.0365,0.275,-14.108,0.082,0.282,0.916,0,C major,132.199,3,245013
+Townes Van Zandt,Nothin',Delta Momma Blues,1971,0.445,0.0338,0.0893,-21.417,0.145,0.237,0.912,0.00154,G# major,138.334,4,166866
+Townes Van Zandt,Two Hands,"High, Low And In Between",1971,0.481,0.109,0.412,-13.197,0.591,0.604,0.362,0,E major,190.355,4,150933
+Townes Van Zandt,You Are Not Needed Now,"High, Low And In Between",1971,0.474,0.0378,0.338,-14.512,0.0819,0.585,0.722,3.43e-5,D major,135.882,4,252933
+Townes Van Zandt,Greensboro Woman,"High, Low And In Between",1971,0.565,0.0514,0.0822,-21.014,0.14,0.713,0.885,3.27e-6,D major,80.549,4,138560
+Townes Van Zandt,Highway Kind,"High, Low And In Between",1971,0.686,0.0546,0.0939,-18.155,0.103,0.073,0.856,4.39e-5,E minor,133.886,4,134440
+Townes Van Zandt,Standin',"High, Low And In Between",1971,0.614,0.0386,0.414,-15.307,0.154,0.847,0.763,1.96e-6,A major,79.613,4,201800
+Townes Van Zandt,No Deal,"High, Low And In Between",1971,0.633,0.0641,0.396,-17.523,0.135,0.608,0.783,4.74e-6,G major,150.518,4,192893
+Townes Van Zandt,To Live Is To Fly,"High, Low And In Between",1971,0.672,0.0422,0.285,-18.285,0.114,0.662,0.657,0.00277,D major,73.754,4,195640
+Townes Van Zandt,When He Offers His Hand,"High, Low And In Between",1971,0.603,0.0321,0.284,-16.584,0.173,0.547,0.765,5.79e-6,A# major,125.442,3,179266
+Townes Van Zandt,Mr. Mudd And Mr. Gold,"High, Low And In Between",1971,0.742,0.141,0.494,-16.759,0.148,0.859,0.839,0,B major,104.066,4,141200
+Townes Van Zandt,Blue Ridge Mountains,"High, Low And In Between",1971,0.748,0.0344,0.398,-15.382,0.145,0.731,0.657,2.78e-5,G major,110.644,3,130333
+Townes Van Zandt,"High, Low And In Between","High, Low And In Between",1971,0.643,0.0314,0.137,-20.34,0.098,0.297,0.959,0.0127,D major,85.255,4,192826
+Townes Van Zandt,For the Sake of the Song - Re-recording,Townes Van Zandt,1969,0.673,0.0311,0.162,-17.557,0.107,0.434,0.711,1.8e-5,B major,102.496,4,315259
+Townes Van Zandt,Columbine,Townes Van Zandt,1969,0.475,0.031,0.171,-20.916,0.114,0.613,0.852,0.148,G major,91.581,4,148423
+Townes Van Zandt,Waitin' Around to Die - Re-recording,Townes Van Zandt,1969,0.542,0.0306,0.301,-15.112,0.203,0.652,0.575,1.61e-4,F# major,89.453,4,159425
+Townes Van Zandt,Don't Take It Too Bad,Townes Van Zandt,1969,0.625,0.0311,0.199,-14.332,0.132,0.459,0.735,0,C major,112.625,3,168443
+Townes Van Zandt,Colorado Girl,Townes Van Zandt,1969,0.435,0.0316,0.104,-18.387,0.11,0.461,0.942,0.0209,A major,170.443,4,193402
+Townes Van Zandt,Lungs,Townes Van Zandt,1969,0.587,0.0618,0.38,-14.107,0.089,0.596,0.681,0,D major,100.479,4,143571
+Townes Van Zandt,I'll Be Here in the Morning - Re-recording,Townes Van Zandt,1969,0.562,0.0321,0.234,-15.743,0.203,0.617,0.84,0.00386,E major,76.782,4,175027
+Townes Van Zandt,"Fare Thee Well, Miss Carousel",Townes Van Zandt,1969,0.551,0.0574,0.446,-12.362,0.053900000000000003,0.574,0.617,5.49e-6,E major,81.269,4,315779
+Townes Van Zandt,(Quicksilver Daydreams of) Maria - Re-recording,Townes Van Zandt,1969,0.557,0.0381,0.23,-14.599,0.1,0.424,0.814,4.67e-6,C major,113.53,3,279474
+Townes Van Zandt,None but the Rain,Townes Van Zandt,1969,0.543,0.0368,0.154,-16.196,0.109,0.246,0.715,0.00274,A minor,76.192,4,141557
+Townes Van Zandt,Be Here to Love Me,Our Mother the Mountain,1969,0.615,0.0321,0.361,-12.104,0.13,0.599,0.59,0,B major,100.511,4,159213
+Townes Van Zandt,Kathleen,Our Mother the Mountain,1969,0.423,0.0319,0.106,-17.042,0.0679,0.334,0.773,1.41e-5,C# minor,91.172,4,167453
+Townes Van Zandt,She Came and She Touched Me,Our Mother the Mountain,1969,0.557,0.0307,0.341,-12.786,0.0819,0.401,0.633,0,E major,126.627,3,243680
+Townes Van Zandt,Like a Summer Thursday,Our Mother the Mountain,1969,0.436,0.0334,0.169,-15.68,0.0789,0.404,0.571,7.48e-5,D# major,145.519,4,184240
+Townes Van Zandt,Our Mother the Mountain,Our Mother the Mountain,1969,0.528,0.0352,0.263,-14.795,0.107,0.236,0.562,0,A major,136.268,3,262306
+Townes Van Zandt,Second Lover's Song,Our Mother the Mountain,1969,0.255,0.0381,0.242,-13.197,0.0934,0.368,0.849,0,A minor,174.642,3,136333
+Townes Van Zandt,Saint John the Gambler,Our Mother the Mountain,1969,0.286,0.034,0.211,-15.281,0.113,0.331,0.785,1.09e-5,C# minor,77.392,4,185960
+Townes Van Zandt,Tecumseh Valley - Re-recording,Our Mother the Mountain,1969,0.412,0.032,0.151,-16.229,0.139,0.343,0.757,1.06e-4,C major,131.686,4,295106
+Townes Van Zandt,Snake Mountain Blues,Our Mother the Mountain,1969,0.634,0.0349,0.416,-12.078,0.241,0.82,0.471,0,B minor,111.291,4,159240
+Townes Van Zandt,My Proud Mountains,Our Mother the Mountain,1969,0.509,0.0321,0.147,-16.407,0.0706,0.327,0.853,3.78e-6,G major,107.505,3,304480
+Townes Van Zandt,Why She's Acting this Way,Our Mother the Mountain,1969,0.35,0.0304,0.236,-14.94,0.07,0.293,0.846,0,F# major,84.45,4,326146
+Townes Van Zandt,For The Sake Of The Song,Townes Van Zandt,NA,0.387,0.0408,0.127,-19.615,0.115,0.463,0.786,3.07e-5,B major,204.402,4,322053
+Townes Van Zandt,Columbine,Townes Van Zandt,NA,0.517,0.0303,0.187,-20.064,0.141,0.643,0.813,0.00439,G major,91.349,4,154706
+Townes Van Zandt,Waitin' Around To Die,Townes Van Zandt,NA,0.366,0.0361,0.227,-18.198,0.111,0.659,0.702,0.00118,F# minor,180.004,4,165186
+Townes Van Zandt,Don't Take It Too Bad,Townes Van Zandt,NA,0.622,0.0358,0.133,-17.983,0.102,0.493,0.813,2.77e-6,C major,112.665,3,174146
+Townes Van Zandt,Colorado Girl,Townes Van Zandt,NA,0.412,0.0323,0.0764,-20.136,0.114,0.516,0.908,0.00172,A major,171.285,4,198106
+Townes Van Zandt,Lungs,Townes Van Zandt,NA,0.653,0.0644,0.307,-16.642,0.0662,0.579,0.751,0,D major,100.945,4,149386
+Townes Van Zandt,I'll Be Here In The Morning,Townes Van Zandt,NA,0.562,0.0331,0.172,-18.873,0.132,0.595,0.891,0.0383,E major,76.863,4,180106
+Townes Van Zandt,"Fare Thee Well, Miss Carousel",Townes Van Zandt,NA,0.533,0.0592,0.403,-13.526,0.0493,0.558,0.705,1.18e-5,E major,80.867,4,322586
+Townes Van Zandt,(Quicksilver Daydreams of) Maria,Townes Van Zandt,NA,0.555,0.0395,0.17,-17.459,0.0726,0.428,0.859,1.04e-5,C major,113.591,3,285173
+Townes Van Zandt,None But The Rain,Townes Van Zandt,NA,0.531,0.0396,0.114,-18.685,0.148,0.267,0.808,0.00725,C major,76.04,4,143226
+Townes Van Zandt,For the Sake of the Song,Townes Van Zandt,NA,0.387,0.04,0.124,-19.606,0.115,0.477,0.778,4.27e-5,B major,204.317,4,322053
+Townes Van Zandt,Columbine,Townes Van Zandt,NA,0.497,0.0312,0.191,-20.047,0.14,0.619,0.804,0.00363,G major,91.368,4,154706
+Townes Van Zandt,Waiting Around to Die,Townes Van Zandt,NA,0.551,0.0312,0.233,-18.251,0.11,0.659,0.71,9.49e-4,F# minor,89.574,4,165186
+Townes Van Zandt,Don't Take It Too Bad,Townes Van Zandt,NA,0.624,0.0352,0.134,-18.026,0.13,0.497,0.824,1.89e-6,C major,112.615,3,174146
+Townes Van Zandt,Colorado Girl,Townes Van Zandt,NA,0.412,0.032,0.0769,-20.142,0.113,0.518,0.91,0.00144,A major,171.168,4,198106
+Townes Van Zandt,Lungs,Townes Van Zandt,NA,0.621,0.0623,0.304,-16.648,0.0684,0.573,0.748,0,D major,100.548,4,149386
+Townes Van Zandt,I'll Be Here in the Morning,Townes Van Zandt,NA,0.558,0.0331,0.17,-18.882,0.113,0.635,0.887,0.037,E major,76.835,4,180106
+Townes Van Zandt,"Fare Thee Well, Miss Carousel",Townes Van Zandt,NA,0.548,0.0576,0.406,-13.547,0.0496,0.572,0.703,1.43e-5,E major,81.257,4,322586
+Townes Van Zandt,(Quicksilver Daydreams Of) Maria,Townes Van Zandt,NA,0.557,0.0392,0.17,-17.459,0.0724,0.438,0.856,8.96e-6,C major,113.619,3,285173
+Townes Van Zandt,None but the Rain,Townes Van Zandt,NA,0.527,0.039,0.115,-18.689,0.148,0.264,0.814,0.00431,A minor,76.016,4,143226
+Townes Van Zandt,Be Here to Love Me,Our Mother the Mountain,NA,0.621,0.0288,0.366,-12.201,0.15,0.622,0.632,0,B major,100.815,4,158706
+Townes Van Zandt,Kathleen,Our Mother the Mountain,NA,0.428,0.0306,0.115,-17.311,0.0516,0.331,0.771,2.67e-5,C# minor,91.69,4,167453
+Townes Van Zandt,She Came and She Touched Me,Our Mother the Mountain,NA,0.579,0.0305,0.331,-12.939,0.0827,0.414,0.625,0,E major,126.654,3,243680
+Townes Van Zandt,Like a Summer Thursday,Our Mother the Mountain,NA,0.493,0.038,0.158,-15.938,0.0801,0.357,0.577,3.87e-5,D# major,72.605,4,184240
+Townes Van Zandt,Our Mother the Mountain,Our Mother the Mountain,NA,0.338,0.0481,0.262,-15.015,0.0866,0.193,0.523,0,A major,69.74,3,262306
+Townes Van Zandt,Second Lover's Song,Our Mother the Mountain,NA,0.263,0.0353,0.244,-13.457,0.092,0.31,0.828,0,A minor,174.068,3,136333
+Townes Van Zandt,St. John the Gambler,Our Mother the Mountain,NA,0.246,0.0324,0.221,-15.488,0.109,0.358,0.803,1.3e-6,C# minor,87.513,5,185960
+Townes Van Zandt,Tecumseh Valley,Our Mother the Mountain,NA,0.43,0.0317,0.137,-16.523,0.127,0.371,0.758,1.52e-4,C major,132.958,4,295106
+Townes Van Zandt,Snake Mountain Blues,Our Mother the Mountain,NA,0.661,0.0342,0.387,-12.294,0.214,0.804,0.496,0,A major,111.446,4,159240
+Townes Van Zandt,My Proud Mountains,Our Mother the Mountain,NA,0.507,0.034,0.146,-16.543,0.0676,0.291,0.868,2.42e-6,G major,107.069,3,304480
+Townes Van Zandt,Why She's Acting This Way,Our Mother the Mountain,NA,0.397,0.03,0.239,-15.161,0.0839,0.263,0.852,0,F# major,167.461,4,324000
+Townes Van Zandt,For the Sake of the Song,For the Sake of the Song,1968,0.531,0.0318,0.315,-12.929,0.113,0.608,0.495,0,C major,104.216,4,287360
+Townes Van Zandt,Tecumseh Valley,For the Sake of the Song,1968,0.524,0.0341,0.347,-14.224,0.118,0.884,0.312,4.34e-5,D major,100.241,4,163013
+Townes Van Zandt,Many a Fine Lady,For the Sake of the Song,1968,0.441,0.0283,0.249,-13.751,0.28,0.367,0.777,0,E major,94.323,3,233026
+Townes Van Zandt,(Quicksilver Daydreams of) Maria,For the Sake of the Song,1968,0.557,0.0305,0.256,-15.48,0.103,0.511,0.866,2.27e-6,D major,114.161,3,221266
+Townes Van Zandt,Waitin' Around to Die,For the Sake of the Song,1968,0.612,0.0449,0.471,-13.764,0.138,0.504,0.488,4.35e-6,A minor,102.332,4,145586
+Townes Van Zandt,I'll Be Here in the Morning,For the Sake of the Song,1968,0.536,0.0274,0.381,-13.041,0.112,0.691,0.586,0,E major,86.529,4,166733
+Townes Van Zandt,Sad Cinderella,For the Sake of the Song,1968,0.514,0.0269,0.331,-13.359,0.136,0.4,0.466,0,C major,94.203,3,282706
+Townes Van Zandt,The Velvet Voices,For the Sake of the Song,1968,0.525,0.0297,0.467,-13.115,0.0831,0.596,0.347,0,D major,114.446,3,195333
+Townes Van Zandt,All Your Young Servants,For the Sake of the Song,1968,0.559,0.034,0.324,-15.859,0.216,0.763,0.814,0,C major,119.339,3,179400
+Townes Van Zandt,Talkin' Karate Blues,For the Sake of the Song,1968,0.586,0.049,0.394,-13.785,0.117,0.753,0.827,4.73e-5,D# major,89.791,4,187466
+Townes Van Zandt,"Sixteen Summers, Fifteen Falls",For the Sake of the Song,1968,0.419,0.0331,0.425,-13.699,0.468,0.626,0.483,9.46e-6,C major,81.767,4,157186
+Townes Van Zandt,For the Sake of the Song,For the Sake of the Song,1968,0.511,0.031,0.387,-11.028,0.162,0.556,0.4,0,C major,105.818,4,286906
+Townes Van Zandt,Tecumseh Valley,For the Sake of the Song,1968,0.534,0.0349,0.422,-12.554,0.12,0.798,0.104,3.39e-5,D major,100.187,3,163013
+Townes Van Zandt,Many a Fine Lady,For the Sake of the Song,1968,0.459,0.0292,0.279,-12.339,0.173,0.297,0.706,0,E major,94.93,3,233026
+Townes Van Zandt,Quicksilver Daydreams of Maria,For the Sake of the Song,1968,0.576,0.0292,0.311,-13.367,0.132,0.489,0.8,0,D major,114.101,3,221266
+Townes Van Zandt,Waitin' Around to Die,For the Sake of the Song,1968,0.605,0.0388,0.526,-11.994,0.139,0.54,0.348,2.35e-6,A minor,102.332,4,145586
+Townes Van Zandt,I'll Be Here in the Morning,For the Sake of the Song,1968,0.528,0.0276,0.415,-12.047,0.0751,0.7,0.432,0,E major,86.515,4,166733
+Townes Van Zandt,Sad Cinderella,For the Sake of the Song,1968,0.51,0.0274,0.35,-13.015,0.138,0.363,0.417,0,C major,94.272,3,282706
+Townes Van Zandt,Velvet Voices,For the Sake of the Song,1968,0.524,0.0283,0.481,-12.973,0.0879,0.493,0.238,0,D major,114.522,3,195333
+Townes Van Zandt,Talkin' Karate Blues,For the Sake of the Song,1968,0.576,0.0481,0.415,-13.306,0.203,0.726,0.718,4.35e-5,D# major,89.977,4,187466
+Townes Van Zandt,All Your Young Servants,For the Sake of the Song,1968,0.561,0.0328,0.361,-14.281,0.112,0.799,0.783,0,C major,119.324,3,179400
+Townes Van Zandt,"Sixteen Summers, Fifteen Falls",For the Sake of the Song,1968,0.349,0.0373,0.493,-11.616,0.491,0.623,0.153,0,C major,110.204,4,155053

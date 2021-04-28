@@ -1,0 +1,256 @@
+---
+title: "Analysis of the Music of Smog and Townes Van Zandt"
+author: "Harpeth Lee"
+date: "4/27/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, message=FALSE}
+library(tidyverse)
+library(rnoaa)
+library(rvest)
+library(httr)
+library(RColorBrewer)
+library(spotifyr)
+library(glue)
+library(stringr)
+library(tidytext)
+library(ggrepel)
+library(viridis)
+library(wesanderson)
+library(wordcloud)
+library(genius)
+library(RColorBrewer)
+```
+
+
+## Analysis of Spotify Data
+
+```{r, eval = FALSE}
+Sys.setenv(SPOTIFY_CLIENT_ID = 'e2749fe5f78d409e9ca00307f79d25cf')
+Sys.setenv(SPOTIFY_CLIENT_SECRET = '925cd5121e004fba8491aeb9bb7c14c5')
+
+access_token <- get_spotify_access_token()
+```
+
+```{r, eval = FALSE}
+## Creates data frames with artist info
+townes_raw <- get_artist_audio_features('townes van zandt')
+smog_raw <- get_artist_audio_features('smog')
+```
+
+```{r, eval = FALSE}
+## Keeps only variables that I think might be interesting to work with
+townes_raw <- townes_raw %>%
+  select(c(artist_name, track_name, album_name, album_release_year, danceability, speechiness, energy, loudness, liveness, valence, acousticness, instrumentalness, key_mode, tempo, time_signature, duration_ms)) %>%
+  filter(album_name != "Be Here To Love Me (Soundtrack)")
+
+smog_raw <- smog_raw %>%
+  select(c(artist_name, track_name, album_name, album_release_year, danceability, speechiness, energy, loudness, liveness, valence, acousticness, instrumentalness, key_mode, tempo, time_signature, duration_ms))
+```
+
+```{r, eval = FALSE}
+write_csv(townes_raw, "townes.csv")
+write_csv(smog_raw, "smog.csv")
+```
+
+```{r}
+townes <- read_csv("townes.csv")
+smog <- read_csv("smog.csv")
+```
+
+
+```{r}
+## Ranks both artists albums by how sad they are (valence is a measurement created by spotify to measure how positive a track is), includes other stats.
+
+townes %>%
+  group_by(album_name) %>%
+  summarise(valence = mean(valence), acousticness = mean(acousticness), energy = mean(energy), danceability = mean(danceability)) %>%
+  arrange(valence)
+
+smog %>%
+  group_by(album_name) %>%
+  summarise(valence = mean(valence), acousticness = mean(acousticness), energy = mean(energy), danceability = mean(danceability)) %>%
+  arrange(valence)
+```
+
+
+```{r}
+## Compares the distribution of track danceability scores for both artists
+
+ggplot() +
+  geom_density(data = smog, mapping = aes(x = danceability), color = "blue") +
+  geom_density(data = townes, mapping = aes(x = danceability), color = "red") +
+  labs(x = "Danceability", y = "Density",
+       title = "Is Smog or Townes Van Zandt's music more danceable?",
+       subtitle = "blue line corresponds to Smog, red to Townes Van Zandt") +
+  theme_minimal()
+```
+
+I decided to analyze the music of my two most listened to artists, Smog and Townes Van Zandt. I found that Smog makes sadder sounding music based on the average valences of the two's albums as Smog's "happiest" album still had a lower average valence than Van Zandt's "saddest". Furthermore, Van Zandt's music is more danceable than Smog's. This suggests that there may be correlation between a song's danceability and valence, a relationship that would make sense. Calculating the correlation between the two, we can see that there is some correlation, but not a strong relationship between the two variables in the data.
+
+## Analysis of Lyrics
+
+```{r}
+rbind(smog, townes) %>%
+  summarise(correlation = cor(valence, danceability))
+```
+
+```{r}
+knock_knock <- genius_album(artist = "Smog", album = "Knock Knock")
+wild_love <- genius_album(artist = "Smog", album = "Wild Love")
+old_quarter <- genius_album(artist = "Townes Van Zandt", album = "Live at the Old Quarter")
+high_low <- genius_album(artist = "Townes Van Zandt", album = "High, Low and In Between")
+```
+
+```{r}
+plot_cloud <- function(x, color = viridis(20, direction = -1)){
+  x %>%
+    mutate(lyric = tolower(lyric)) %>%
+    unnest_tokens(output = word, input = lyric, token = "words") %>%
+    anti_join(stop_words, by = "word") %>%
+    count(word, sort = TRUE) %>%
+    head(20) %>%
+    with(wordcloud(word, n, random.order = FALSE, scale = c(4, 1), colors = color))
+}
+```
+
+```{r}
+plot_cloud(knock_knock, color = brewer.pal(10, "Blues"))
+plot_cloud(wild_love, color = brewer.pal(10, "Greys"))
+plot_cloud(old_quarter, color = brewer.pal(10, "YlGn"))
+plot_cloud(high_low, color = brewer.pal(10, "YlOrRd"))
+``` 
+
+```{r}
+nrc <- get_sentiments("nrc")
+afinn <- get_sentiments("afinn")
+
+nrc_table <- function(x){
+  x %>%
+    unnest_tokens(output = word, input = lyric, token = "words") %>%
+    mutate(word = tolower(word)) %>%
+    anti_join(stop_words, by = "word") %>%
+    left_join(nrc, by = "word") %>%
+    filter(!is.na(sentiment)) %>%
+    count(sentiment) %>%
+    arrange(-n)
+}
+```
+
+```{r}
+nrc_table(knock_knock)
+nrc_table(wild_love)
+nrc_table(old_quarter)
+nrc_table(high_low)
+```
+
+```{r}
+knock_knock <- knock_knock %>%
+  mutate(album = "Knock Knock", artist = "Smog")
+wild_love <- mutate(wild_love, album = "Wild Love", artist = "Smog")
+old_quarter <- mutate(old_quarter, album = "Live at the Old Quarter", artist = "Townes Van Zandt")
+high_low <- mutate(high_low , album = "High, Low and In Between", artist = "Townes Van Zandt")
+```
+
+```{r}
+knock_knock %>%
+  rbind(wild_love) %>%
+  rbind(old_quarter) %>%
+  rbind(high_low) %>%
+  unnest_tokens(output = word, input = lyric, token = "words") %>%
+  mutate(word = tolower(word)) %>%
+  count(album, artist, word, sort = TRUE) %>%
+  anti_join(stop_words, by = "word") %>%
+  left_join(nrc, by = "word") %>%
+  filter(!is.na(sentiment)) %>%
+  filter(sentiment != "positive" & sentiment != "negative") %>%
+  group_by(album) %>%
+  mutate(sentiment = fct_reorder(sentiment, n)) %>%
+  ggplot(aes(x = sentiment, y = n, fill = album)) +
+  geom_col() +
+  facet_grid(vars(album)) +
+  labs(x = "Sentiment", y = "Frequency") +
+  theme_minimal()
+```
+
+```{r}
+nrc_plot <- function(x, plot_title = NULL, fill_color = "grey2"){
+  nrc_table(x) %>%
+    filter(sentiment != "positive" & sentiment != "negative") %>%
+    mutate(sentiment = fct_reorder(sentiment, n)) %>%
+    ggplot(aes(x = sentiment, y = n)) +
+    geom_col(fill = fill_color) +
+    labs(title = plot_title, x = "Sentiment", y = "Frequency") +
+    theme_minimal()
+}
+```
+
+```{r}
+nrc_plot(knock_knock, plot_title = "Knock Knock Sentiment Frequency", "dodgerblue4")
+nrc_plot(wild_love, plot_title = "Wild Love Sentiment Frequency", "wheat4")
+nrc_plot(old_quarter, "Live at the Old Quarter Sentiment Frequency", "palegreen4")
+nrc_plot(high_low, "High, Low and In Between Sentiment Frequency", "orangered4")
+```
+
+```{r}
+afinn_summary <- function(x){
+  x  %>%
+    unnest_tokens(output = word, input = lyric, token = "words") %>%
+    mutate(word = tolower(word)) %>%
+    count(word, sort = TRUE) %>%
+    left_join(afinn, by = "word") %>%
+    summarise(mean_sentiment = mean(value, na.rm = TRUE), median_sentiment = median(value, na.rm = TRUE))
+}
+```
+
+```{r}
+afinn_impact <- function(x, head = 10) {
+  x %>%
+    unnest_tokens(output = word, input = lyric, token = "words") %>%
+    mutate(word = tolower(word)) %>%
+    count(word, sort = TRUE) %>%
+    left_join(afinn, by = "word") %>%
+    filter(!is.na(value)) %>%
+    mutate(impact = n*value) %>%
+    arrange(desc(abs(impact))) %>%
+    head(head)
+}
+```
+
+
+```{r}
+afinn_impact(knock_knock)
+afinn_impact(wild_love)
+afinn_impact(old_quarter)
+afinn_impact(high_low)
+```
+
+```{r}
+impact_plot <- function(x, plot_title = NULL) {
+  afinn_impact(x, 15) %>%
+    mutate(word = fct_reorder(word, impact)) %>%
+    ggplot(aes(x = word, y = impact, fill = as.factor(value))) +
+    geom_col() +
+    geom_text(aes(label = word), angle = -15) +
+    labs(title = plot_title) +
+    scale_fill_viridis(discrete = TRUE, begin = 0.5, name = "afinn value") +
+    theme_minimal() +   
+    theme(axis.title.x = element_blank(), axis.text.x = element_blank())
+}
+```
+
+
+```{r}
+impact_plot(knock_knock, "High Impact Words on Knock Knock")
+impact_plot(wild_love, "High Impact Words on Wild Love")
+impact_plot(old_quarter, "High Impact Words on Live at the Old Quarter")
+impact_plot(high_low, "High Impact Words on High, Low and In Between")
+```
+
+I decided to go back and compare the sentiments on my favorite two albums by each of them. In this previous question, I found that Smog's music was sadder according to spotify's analysis. I wanted to know if his music also contained more a more negative sentiment as well. For both artists, one album was overall more positive while one was more negative. These seemed to average out to be about the same. Ultimately, I did see that sentiment analysis runs into problems with sarcasm and further context. Especially with the album Wild Love, it seemed that a lot of the words that gave it a highly positive sentiment were not so positive when considered in context.
+
